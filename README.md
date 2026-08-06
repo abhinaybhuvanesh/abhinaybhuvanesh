@@ -1,4 +1,3 @@
-<!-- FINAL GITHUB PROFILE README — no local assets required -->
 
 <div align="center">
 
@@ -20,7 +19,7 @@
 
 Computer Science student and full-stack developer focused on building clean, useful, and production-ready applications. I am currently strengthening **Java, Data Structures and Algorithms, MERN development, backend engineering, databases, and cloud deployment** through real-world projects.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
