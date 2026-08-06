@@ -71,7 +71,7 @@ An AI-powered resume screening and candidate ranking platform that analyzes resu
 
 <div align="center">
 
-### Build thoughtfully. Learn continuously. Grow consistently. 🌱
+### BEAT THE ODDS. 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7FB77E,50:146B4A,100:0B3D2E"/>
 
