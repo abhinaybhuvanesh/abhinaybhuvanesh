@@ -16,11 +16,11 @@
 
 </div>
 
-## 🌿 About Me
+## About Me
 
 Computer Science student and full-stack developer focused on building clean, useful, and production-ready applications. I am currently strengthening **Java, Data Structures and Algorithms, MERN development, backend engineering, databases, and cloud deployment** through real-world projects.
 
-## 🌱 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
