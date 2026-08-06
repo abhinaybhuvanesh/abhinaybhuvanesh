@@ -61,9 +61,6 @@ Real-time collaborative coding environment designed for multiple users, shared r
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=58a6ff&text_color=9fb0c3&icon_color=58a6ff" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&hide_border=true&bg_color=0b0f14&title_color=58a6ff&text_color=9fb0c3" alt="Top languages"/>
-
 </div>
 
 ---
