@@ -10,7 +10,6 @@
   <a href="mailto:abhinaybhuvanesh01@gmail.com">
     <img src="https://img.shields.io/badge/Email-163D2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abhinaybhuvanesh&label=Profile%20Views&color=2E7D5A&style=for-the-badge" alt="Profile views"/>
 </p>
 
 </div>
