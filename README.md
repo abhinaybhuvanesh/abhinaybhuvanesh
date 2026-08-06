@@ -20,7 +20,7 @@
 
 Computer Science student and full-stack developer focused on building clean, useful, and production-ready applications. I am currently strengthening **Java, Data Structures and Algorithms, MERN development, backend engineering, databases, and cloud deployment** through real-world projects.
 
-##  Featured Projects
+## 🌱 Featured Projects
 
 <table>
 <tr>
@@ -37,13 +37,13 @@ A full-stack URL shortening platform with authentication, custom aliases, passwo
 </td>
 <td width="50%" valign="top">
 
-### [HireSense AI](https://github.com/abhinaybhuvanesh/HireSense-AI)
+### [HireSense AI](https://hiresense-resume-analysis.vercel.app/)
 
-An AI-assisted recruitment project focused on improving candidate evaluation and hiring workflows through practical full-stack development.
+An AI-powered resume screening and candidate ranking platform that analyzes resumes against job descriptions using Gemini AI. It generates ATS scores, identifies matched and missing skills, ranks candidates, and provides an AI recruiter assistant.
 
-`JavaScript` `Full Stack` `AI Integration`
+`React.js` `Vite` `Node.js` `Express.js` `Gemini API` `PDF-Parse` `Vercel`
 
-[Repository](https://github.com/abhinaybhuvanesh/HireSense-AI)
+[Live Demo](https://hiresense-resume-analysis.vercel.app/) · [Repository](https://github.com/abhinaybhuvanesh/HireSense-AI)
 
 </td>
 </tr>
