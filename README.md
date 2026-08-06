@@ -20,6 +20,14 @@
 
 Computer Science student and full-stack developer focused on building clean, useful, and production-ready applications. I am currently strengthening **Java, Data Structures and Algorithms, MERN development, backend engineering, databases, and cloud deployment** through real-world projects.
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,nodejs,express,mongodb,mysql,aws,git,github,vite,npm,vscode&perline=9" alt="Tech Stack"/>
+
+</div>
+
 ##  Featured Projects
 
 <table>
@@ -49,13 +57,6 @@ An AI-powered resume screening and candidate ranking platform that analyzes resu
 </tr>
 </table>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,nodejs,express,mongodb,mysql,redis,aws,git,github,vite,npm,postman,vscode&perline=9" alt="Tech Stack"/>
-
-</div>
 
 ##  GitHub Activity
 
