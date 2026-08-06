@@ -20,7 +20,7 @@
 
 Computer Science student and full-stack developer focused on building clean, useful, and production-ready applications. I am currently strengthening **Java, Data Structures and Algorithms, MERN development, backend engineering, databases, and cloud deployment** through real-world projects.
 
-## 🌱 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ An AI-powered resume screening and candidate ranking platform that analyzes resu
 
 </div>
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
