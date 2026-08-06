@@ -57,17 +57,17 @@ An AI-powered resume screening and candidate ranking platform that analyzes resu
 </table>
 
 
-##  GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&hide_border=true&bg_color=0D1712&title_color=7FB77E&text_color=DCEFE3&icon_color=4FA675" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&hide_border=true&bg_color=0D1712&title_color=7FB77E&text_color=DCEFE3" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=0D1712&color=DCEFE3&line=4FA675&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&theme=github-dark&hide_border=true"/>
 
 </div>
 
