@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B3D2E,50:146B4A,100:7FB77E&text=Abhinay%20Bhuvanesh&fontColor=F4FFF8&fontSize=46&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B3D2E,50:146B4A,100:7FB77E&text=ABHINAY%20BHUVANESH&fontColor=F4FFF8&fontSize=46&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=60&animation=fadeIn"/>
 
 <p>
   <a href="https://linkedin.com/in/abhinaybhuvanesh">
