@@ -59,7 +59,7 @@ I work across the complete development lifecycle—from designing responsive int
 <br>
 
 <img src="https://img.shields.io/badge/DATABASES-MongoDB_•_MySQL_•_Redis-0F172A?style=for-the-badge" alt="Databases"/>
-<img src="https://img.shields.io/badge/CLOUD-AWS_•_Nginx_•_Vercel-1E1B4B?style=for-the-badge" alt="Cloud technologies"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS-1E1B4B?style=for-the-badge" alt="Cloud technologies"/>
 
 </div>
 
