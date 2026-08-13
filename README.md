@@ -53,10 +53,10 @@ Currently focusing on **Java, DSA, backend development, and system-design fundam
 
 ### SwiftByte
 
-A URL shortening and analytics platform with custom aliases, password-protected links, QR codes, click analytics, Redis caching, and AWS deployment.
+A URL shortening and analytics platform with custom aliases, password-protected links, QR codes, click analytics, secure authentication, custom aliases, password-protected links, QR codes, click analytics, and Vercel deployment.
 
 `React` `Node.js` `Express` `MongoDB`  
-`Redis` `JWT` `AWS` `Nginx`
+`JWT` `bcrypt` `QR Code`
 
 <a href="https://swiftbyte-url.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=flat-square&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
@@ -78,7 +78,7 @@ A URL shortening and analytics platform with custom aliases, password-protected 
 An AI-powered resume screening platform that compares candidates with job descriptions, generates ATS scores, identifies skill gaps, and ranks applicants.
 
 `React` `Vite` `Node.js` `Express`  
-`Gemini API` `PDF-Parse` `Vercel`
+`Gemini API` `PDF-Parse`
 
 <a href="https://hiresense-resume-analysis.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="HireSense live demo"/>
