@@ -1,124 +1,91 @@
 <div align="center">
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:7C3AED,50:4F46E5,100:2563EB&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=45&fontAlignY=45&animation=fadeIn" alt="Abhinay Bhuvanesh" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=80&lines=Hi%2C+I'm+Abhinay+Bhuvanesh;Full-Stack+Developer;Java+%7C+MERN+%7C+Backend+%7C+Cloud;I+build+ideas+into+real+products." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer;Java+%7C+MERN+%7C+Backend+Development;Building+and+deploying+real-world+applications" alt="Animated developer roles" />
 
 <p>
-  <i>Computer Science student building reliable, useful and production-ready software.</i>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/abhinaybhuvanesh/abhinaybhuvanesh/raw/main/Abhinay_Bhuvanesh_Resume.pdf"><img src="https://img.shields.io/badge/Resume-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://linkedin.com/in/abhinaybhuvanesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhinaybhuvanesh01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
-</a>
-<a href="https://github.com/abhinaybhuvanesh/abhinaybhuvanesh/raw/main/Abhinay_Bhuvanesh_Resume.pdf">
-  <img src="https://img.shields.io/badge/RESUME-111827?style=for-the-badge&logo=readthedocs&logoColor=58A6FF" alt="Resume" />
-</a>
-<a href="https://linkedin.com/in/abhinaybhuvanesh">
-  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
-</a>
-<a href="mailto:abhinaybhuvanesh01@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
-</a>
+</div>
+
+About Me
+
+I am a Computer Science undergraduate and full-stack developer who enjoys turning ideas into complete, deployed applications. My current focus is on Java, Data Structures and Algorithms, MERN development, backend engineering, databases, and cloud deployment.
+
+Building secure REST APIs and responsive web applications
+
+Working with relational and NoSQL databases
+
+Deploying and maintaining applications on cloud platforms
+
+Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs&theme=dark" alt="Programming and web technologies" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=abhinaybhuvanesh&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" alt="Profile views" />
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,redis,aws,nginx,git,github&theme=dark" alt="Backend, databases, cloud and tools" />
 
 </div>
 
-01 / ABOUT
+Featured Projects
 
-const abhinay = {
-  role: "Full-Stack Developer",
-  education: "B.Tech Computer Science — KL University",
-  interests: ["Backend Engineering", "Web Development", "Cloud"],
-  currentlyLearning: ["Java", "DSA", "System Design"],
-  goal: "Build software that solves real-world problems"
-};
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy taking projects from an idea to a deployed product—designing the interface, building APIs, working with databases, securing the backend, and handling deployment.
+<h3>🔗 SwiftByte</h3>
 
-02 / TECHNOLOGIES
+<p>A production-ready URL shortening and analytics platform with authentication, custom aliases, password-protected links, QR generation, Redis caching, and AWS deployment.</p>
+
+<p><strong>Built with</strong><br>React · Node.js · Express.js · MongoDB · Redis · JWT · AWS · Nginx</p>
+
+<p>
+  <a href="https://swiftbyte-url.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="SwiftByte live demo" /></a>
+  <a href="https://github.com/abhinaybhuvanesh/url-platform"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="SwiftByte source code" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 HireSense AI</h3>
+
+<p>An AI-powered resume screening and ranking platform that generates ATS scores, detects matched and missing skills, compares candidates, and provides an AI recruiter assistant.</p>
+
+<p><strong>Built with</strong><br>React · Vite · Node.js · Express.js · Gemini API · PDF-Parse · Vercel</p>
+
+<p>
+  <a href="https://hiresense-resume-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="HireSense AI live demo" /></a>
+  <a href="https://github.com/abhinaybhuvanesh/HireSense-AI"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="HireSense AI source code" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+GitHub Activity
 
 <div align="center">
 
-Languages
-
-<img src="https://skillicons.dev/icons?i=java,c,js&theme=dark" alt="Java, C and JavaScript" />
-
-Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,express&theme=dark" alt="Frontend and backend technologies" />
-
-Databases, Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,aws,nginx,git,github,npm,vscode&theme=dark" alt="Databases, cloud and development tools" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=0D1117&color=A5B4FC&line=6366F1&point=EC4899&area=true&area_color=4F46E5&hide_border=true&radius=10" alt="Abhinay's GitHub contribution graph" />
 
 </div>
 
-03 / FEATURED WORK
-
 <div align="center">
 
-<a href="https://github.com/abhinaybhuvanesh/url-platform">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaybhuvanesh&repo=url-platform&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=7C3AED&border_color=30363D&border_radius=12" alt="SwiftByte repository" />
-</a>
-<a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaybhuvanesh&repo=HireSense-AI&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=7C3AED&border_color=30363D&border_radius=12" alt="HireSense AI repository" />
-</a>
+BEAT THE ODDS.
+
+<sub>Keep building. Keep learning. Keep moving forward.</sub>
 
 <br><br>
 
-SwiftByte
-
-Secure URL-shortening and analytics platform with authentication, custom aliases, protected links, QR codes, Redis caching and AWS deployment.
-
-React · Node.js · Express.js · MongoDB · Redis · JWT · AWS · Nginx
-
-
-
-
-<br>
-
-HireSense AI
-
-AI resume-screening platform that evaluates candidates against job descriptions, generates ATS scores, detects skill gaps and ranks applicants.
-
-React · Vite · Node.js · Express.js · Gemini API · PDF-Parse · Vercel
-
-
-
-
-</div>
-
-04 / GITHUB SNAPSHOT
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=7C3AED&rank_icon=github" alt="Abhinay's GitHub statistics" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=0D1117&color=8B949E&line=58A6FF&point=7C3AED&area=true&area_color=1F6FEB&hide_border=true&radius=12" alt="GitHub contribution activity" />
-
-</div>
-
-05 / CURRENT FOCUS
-
-Solving Data Structures and Algorithms problems using Java
-
-Strengthening backend development and REST API design
-
-Learning system design and scalable application architecture
-
-Building and deploying complete full-stack applications
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=50&lines=BUILD.+BREAK.+LEARN.+REPEAT.;BEAT+THE+ODDS." alt="Animated closing message" />
-
-<sub>Designed and built by Abhinay Bhuvanesh</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:7C3AED,50:4F46E5,100:2563EB" alt="Footer" />
 
 </div>
