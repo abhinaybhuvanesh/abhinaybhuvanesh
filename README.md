@@ -1,5 +1,18 @@
 <div align="center">
 
+<img width="100%" src="./assets/abhinay-hero.gif" alt="Abhinay Bhuvanesh — Full-Stack Developer"/>
+
+<br><br>
+
+<a href="https://github.com/abhinaybhuvanesh?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-0B1535?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio"/></a>&nbsp;
+<a href="./Abhinay_Bhuvanesh_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0B1535?style=for-the-badge&logo=readthedocs&logoColor=C4B5FD" alt="Resume"/></a>&nbsp;
+<a href="https://linkedin.com/in/abhinaybhuvanesh"><img src="https://img.shields.io/badge/LinkedIn-0B1535?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:abhinaybhuvanesh01@gmail.com"><img src="https://img.shields.io/badge/Email-0B1535?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email"/></a>
+
+</div>
+
+<br>
+
 <a href="https://github.com/abhinaybhuvanesh?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
 <a href="https://github.com/abhinaybhuvanesh/abhinaybhuvanesh/raw/main/Abhinay_Bhuvanesh_Resume.pdf"><img src="https://img.shields.io/badge/Resume-7C3AED?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume"/></a>&nbsp;
 <a href="https://linkedin.com/in/abhinaybhuvanesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
