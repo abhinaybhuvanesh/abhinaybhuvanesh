@@ -23,8 +23,8 @@
 
 <br>
 
-<img align="right" width="390" src="https://media.giphy.com/media/S9Kh03BS3cjZjxeBrn/giphy.gif" alt="Technology workspace animation"/>
-<img width="500" height="350" alt="forest mist GIF" src="https://github.com/user-attachments/assets/6ea97d5e-944f-4d88-9fae-7e3d761f6f4b" />
+<img width="480" height="480" alt="Technology Code GIF by The Coding Space RD" src="https://github.com/user-attachments/assets/7ae0846c-ad40-430f-8c24-456e077ebad2" />
+
 
 
 ### Full-Stack Developer
