@@ -23,8 +23,7 @@
 
 <br>
 
-<img width="480" height="480" alt="Technology Code GIF by The Coding Space RD" src="https://github.com/user-attachments/assets/7ae0846c-ad40-430f-8c24-456e077ebad2" />
-
+<img align="right" width="390" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
 
 
 ### Full-Stack Developer
