@@ -24,14 +24,8 @@
 <br>
 
 <img align="right" width="390" src="https://media.giphy.com/media/S9Kh03BS3cjZjxeBrn/giphy.gif" alt="Technology workspace animation"/>
+<img width="500" height="350" alt="forest mist GIF" src="https://github.com/user-attachments/assets/6ea97d5e-944f-4d88-9fae-7e3d761f6f4b" />
 
-<img align="right" width="390" src="https://media.giphy.com/media/D4qoOxIlzakLWTLP96/giphy.gif" alt="Aurora forest animation"/>
-
-<img align="right" width="390" src="https://media.giphy.com/media/DXwyLeoYK7ozTUUOdG/giphy.gif" alt="Animated night landscape"/>
-
-<img align="right" width="390" src="https://media.giphy.com/media/qqoPzEuBzMV9Xevxww/giphy.gif" alt="Northern lights animation"/>
-
-<img align="right" width="390" src="https://media.giphy.com/media/l41lZ8PPyKqGPzj5C/giphy.gif" alt="Fireflies nature animation"/>
 
 ### Full-Stack Developer
 
