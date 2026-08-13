@@ -23,9 +23,15 @@
 
 <br>
 
-<br>
+<img align="right" width="390" src="https://media.giphy.com/media/S9Kh03BS3cjZjxeBrn/giphy.gif" alt="Technology workspace animation"/>
 
-<img align="right" width="390" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Animated office coding"/>
+<img align="right" width="390" src="https://media.giphy.com/media/D4qoOxIlzakLWTLP96/giphy.gif" alt="Aurora forest animation"/>
+
+<img align="right" width="390" src="https://media.giphy.com/media/DXwyLeoYK7ozTUUOdG/giphy.gif" alt="Animated night landscape"/>
+
+<img align="right" width="390" src="https://media.giphy.com/media/qqoPzEuBzMV9Xevxww/giphy.gif" alt="Northern lights animation"/>
+
+<img align="right" width="390" src="https://media.giphy.com/media/l41lZ8PPyKqGPzj5C/giphy.gif" alt="Fireflies nature animation"/>
 
 ### Full-Stack Developer
 
