@@ -25,7 +25,7 @@ I enjoy building full-stack applications and understanding how every part connec
 
 I built **SwiftByte** to learn secure backend development, authentication, analytics, and real-world deployment. I built **HireSense AI** to explore how AI can help with resume screening and candidate ranking.
 
-Currently focusing on **Java, DSA, backend development, and system-design fundamentals**.
+Currently focusing on **Java, DSA, backend development**.
 
 </td>
 <td width="42%" align="center" valign="middle">
