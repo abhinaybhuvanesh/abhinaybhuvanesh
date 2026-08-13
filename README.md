@@ -23,7 +23,7 @@
 
 <br>
 
-<img width="100%" height="55" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:111827,50:312E81,100:164E63&text=ABOUT%20ME&fontColor=FFFFFF&fontSize=20&fontAlignY=56&stroke=6366F1&strokeWidth=1"/>
+<img align="right" width="390" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dark cinematic coding animation"/>
 
 <br>
 
