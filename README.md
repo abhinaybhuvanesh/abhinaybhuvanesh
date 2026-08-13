@@ -12,21 +12,30 @@
 
 </div>
 
-<br>
-
-<img align="right" width="360" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
+---
 
 ## About me
 
+<table>
+<tr>
+<td width="58%" valign="middle">
+
 Hi, I’m Abhinay — a Computer Science undergraduate at KL University.
 
-I enjoy building full-stack applications and understanding how every part connects: the interface, APIs, authentication, databases, caching, and deployment.
+I enjoy building full-stack applications and understanding how every part connects: the interface, APIs, authentication, databases, and deployment.
 
-I built SwiftByte to learn secure backend development, analytics, Redis, and AWS deployment. I built HireSense AI to explore how AI can help with resume screening and candidate ranking.
+I built **SwiftByte** to learn secure backend development, authentication, analytics, and real-world deployment. I built **HireSense AI** to explore how AI can help with resume screening and candidate ranking.
 
 Currently focusing on **Java, DSA, backend development, and system-design fundamentals**.
 
-<br clear="right">
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img width="330" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,7 +43,7 @@ Currently focusing on **Java, DSA, backend development, and system-design fundam
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,redis,git,github&perline=14&theme=dark" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=13&theme=dark" alt="Technology stack"/>
 
 </div>
 
@@ -51,19 +60,23 @@ Currently focusing on **Java, DSA, backend development, and system-design fundam
   <img width="100%" src="./assets/swiftbyte.png" alt="SwiftByte project screenshot"/>
 </a>
 
-### SwiftByte
+<h3 align="center">SwiftByte</h3>
 
-A URL shortening and analytics platform with custom aliases, password-protected links, QR codes, click analytics, secure authentication, custom aliases, password-protected links, QR codes, click analytics, and Vercel deployment.
+A URL shortening and analytics platform with secure authentication, custom aliases, password-protected links, QR codes, and click analytics.
 
 `React` `Node.js` `Express` `MongoDB`  
-`JWT` `bcrypt` `QR Code`
+`JWT` `bcrypt` `QR Code` `Vercel`
+
+<div align="center">
 
 <a href="https://swiftbyte-url.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=flat-square&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
 </a>
 <a href="https://github.com/abhinaybhuvanesh/url-platform">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="SwiftByte source code"/>
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/>
 </a>
+
+</div>
 
 </td>
 
@@ -73,19 +86,23 @@ A URL shortening and analytics platform with custom aliases, password-protected 
   <img width="100%" src="./assets/hiresense.png" alt="HireSense AI project screenshot"/>
 </a>
 
-### HireSense AI
+<h3 align="center">HireSense AI</h3>
 
 An AI-powered resume screening platform that compares candidates with job descriptions, generates ATS scores, identifies skill gaps, and ranks applicants.
 
 `React` `Vite` `Node.js` `Express`  
-`Gemini API` `PDF-Parse`
+`Gemini API` `Multer` `PDF-Parse` `Vercel`
+
+<div align="center">
 
 <a href="https://hiresense-resume-analysis.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="HireSense live demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/>
 </a>
 <a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="HireSense source code"/>
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source code"/>
 </a>
+
+</div>
 
 </td>
 
