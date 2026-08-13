@@ -23,11 +23,9 @@
 
 <br>
 
-<img align="right" width="390" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dark cinematic coding animation"/>
-
 <br>
 
-<img align="right" width="390" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
+<img align="right" width="390" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Animated office coding"/>
 
 ### Full-Stack Developer
 
