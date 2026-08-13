@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Abhinay+Bhuvanesh;Full-Stack+Developer;Java+%E2%80%A2+MERN+%E2%80%A2+Backend+%E2%80%A2+Cloud;Turning+Ideas+Into+Deployed+Products" alt="Animated introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,35:312E81,70:6D28D9,100:0891B2&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=44&fontAlignY=43&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20MERN%20%E2%80%A2%20CLOUD&descAlignY=65&descSize=17&animation=fadeIn&stroke=8B5CF6&strokeWidth=1"/>
 
-<p>
-Computer Science undergraduate building secure, practical, and production-ready applications.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Building+secure+and+production-ready+applications;From+responsive+interfaces+to+cloud+deployment;Turning+ideas+into+working+products" alt="Animated introduction"/>
 
 <p>
   <a href="https://github.com/abhinaybhuvanesh?tab=repositories">
@@ -25,114 +23,138 @@ Computer Science undergraduate building secure, practical, and production-ready 
 
 <br>
 
+<img width="100%" height="55" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:111827,50:312E81,100:164E63&text=ABOUT%20ME&fontColor=FFFFFF&fontSize=20&fontAlignY=56&stroke=6366F1&strokeWidth=1"/>
+
+<br>
+
 <img align="right" width="390" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
 
-## About Me
+### Full-Stack Developer
 
-I am a **Full-Stack Developer** and Computer Science undergraduate at **KL University**.
+Computer Science undergraduate at **KL University** focused on building useful and production-ready software.
 
-I enjoy building complete applications—from responsive interfaces and REST APIs to authentication, databases, caching, and cloud deployment.
+I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, caching, and cloud deployment.
 
-- Building full-stack applications with MERN
-- Solving DSA problems using Java
-- Learning backend engineering and system design
-- Exploring scalable cloud deployment
-- Open to software development opportunities
+<br>
+
+<img src="https://img.shields.io/badge/Current_Focus-Java_&_DSA-111827?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java and DSA"/>
+
+<img src="https://img.shields.io/badge/Building-Full--Stack_Applications-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-stack applications"/>
+
+<img src="https://img.shields.io/badge/Learning-Backend_&_System_Design-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Backend and system design"/>
+
+<img src="https://img.shields.io/badge/Exploring-Cloud_Deployment-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Cloud deployment"/>
 
 <br clear="right">
+<br>
 
----
+<img width="100%" height="55" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:111827,50:312E81,100:164E63&text=ENGINEERING%20TOOLKIT&fontColor=FFFFFF&fontSize=20&fontAlignY=56&stroke=6366F1&strokeWidth=1"/>
 
-## Technology Stack
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs&theme=dark" alt="Languages and frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs&theme=dark" alt="Languages and web technologies"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,redis,aws,nginx,git,github&theme=dark" alt="Backend, databases, cloud and tools"/>
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,redis,aws,nginx,git,github&theme=dark" alt="Backend, database and cloud technologies"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FRONTEND-React_•_Vite_•_HTML_•_CSS-312E81?style=for-the-badge" alt="Frontend technologies"/>
+<img src="https://img.shields.io/badge/BACKEND-Node.js_•_Express_•_REST_APIs-164E63?style=for-the-badge" alt="Backend technologies"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/DATABASES-MongoDB_•_MySQL_•_Redis-0F172A?style=for-the-badge" alt="Databases"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS_•_Nginx_•_Vercel-1E1B4B?style=for-the-badge" alt="Cloud technologies"/>
 
 </div>
 
----
+<br>
 
-## Featured Projects
+<img width="100%" height="55" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:111827,50:312E81,100:164E63&text=FEATURED%20PROJECTS&fontColor=FFFFFF&fontSize=20&fontAlignY=56&stroke=6366F1&strokeWidth=1"/>
 
-<table>
+<br>
+
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">SwiftByte</h3>
+<div align="center">
 
-<p align="center">
-Full-stack URL shortening and analytics platform with secure authentication, custom aliases, protected links, QR codes, Redis caching, and AWS deployment.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:1E1B4B,100:6D28D9&text=SWIFTBYTE&fontColor=FFFFFF&fontSize=24&fontAlignY=52" alt="SwiftByte"/>
 
-<p align="center">
-<code>React</code>
-<code>Node.js</code>
-<code>Express</code>
-<code>MongoDB</code>
-<code>Redis</code>
-<code>JWT</code>
-<code>AWS</code>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://swiftbyte-url.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
-  </a>
-  <a href="https://github.com/abhinaybhuvanesh/url-platform">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/>
-  </a>
-</p>
+A production-ready URL shortening and analytics platform featuring secure authentication, custom aliases, password-protected links, QR codes, Redis caching, and AWS deployment.
+
+<br><br>
+
+`React` `Node.js` `Express` `MongoDB`  
+`Redis` `JWT` `AWS` `Nginx`
+
+<br><br>
+
+<a href="https://swiftbyte-url.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
+</a>
+<a href="https://github.com/abhinaybhuvanesh/url-platform">
+  <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source"/>
+</a>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">HireSense AI</h3>
+<div align="center">
 
-<p align="center">
-AI-powered resume screening platform that generates ATS scores, identifies skill gaps, compares candidates, and provides an AI recruiter assistant.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:172554,100:0891B2&text=HIRESENSE%20AI&fontColor=FFFFFF&fontSize=24&fontAlignY=52" alt="HireSense AI"/>
 
-<p align="center">
-<code>React</code>
-<code>Vite</code>
-<code>Node.js</code>
-<code>Express</code>
-<code>Gemini API</code>
-<code>PDF-Parse</code>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://hiresense-resume-analysis.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense AI live demo"/>
-  </a>
-  <a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="HireSense AI source code"/>
-  </a>
-</p>
+An AI-powered resume screening platform that generates ATS scores, identifies matched and missing skills, compares candidates, and provides an AI recruiter assistant.
+
+<br><br>
+
+`React` `Vite` `Node.js` `Express`  
+`Gemini API` `PDF-Parse` `Vercel`
+
+<br><br>
+
+<a href="https://hiresense-resume-analysis.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/>
+</a>
+<a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
+  <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source"/>
+</a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## GitHub Activity
+<img width="100%" height="55" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:111827,50:312E81,100:164E63&text=GITHUB%20ACTIVITY&fontColor=FFFFFF&fontSize=20&fontAlignY=56&stroke=6366F1&strokeWidth=1"/>
+
+<br>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=38BDF8&area=true&area_color=6D28D9&hide_border=true&radius=12" alt="GitHub contribution activity"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=080B14&color=C4B5FD&line=8B5CF6&point=22D3EE&area=true&area_color=6D28D9&border_color=4F46E5&radius=16" alt="GitHub contribution graph"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=50&lines=BUILD.+LEARN.+IMPROVE.+REPEAT.;BEAT+THE+ODDS." alt="Animated closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=55&lines=BUILD+WITH+INTENT.;LEARN+WITHOUT+LIMITS.;BEAT+THE+ODDS." alt="Animated closing message"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:0891B2,50:6D28D9,100:020617"/>
 
 </div>
