@@ -6,8 +6,7 @@
 
 <br>
 
-<a href="https://github.com/abhinaybhuvanesh?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="https://github.com/abhinaybhuvanesh/abhinaybhuvanesh/raw/main/Abhinay_Bhuvanesh_Resume.pdf"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>&nbsp;
+
 <a href="https://linkedin.com/in/abhinaybhuvanesh"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:abhinaybhuvanesh01@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
