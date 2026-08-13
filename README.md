@@ -34,7 +34,7 @@ Currently focusing on **Java, DSA, backend development, and system-design fundam
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,redis,aws,nginx,git,github&perline=8&theme=dark" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,aws,git,github&perline=8&theme=dark" alt="Technology stack"/>
 
 </div>
 
