@@ -1,112 +1,138 @@
 <div align="center">
 
-<img src="./assets/abhinay-hero.gif" width="100%" alt="Abhinay Bhuvanesh — Full-Stack Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Abhinay+Bhuvanesh;Full-Stack+Developer;Java+%E2%80%A2+MERN+%E2%80%A2+Backend+%E2%80%A2+Cloud;Turning+Ideas+Into+Deployed+Products" alt="Animated introduction"/>
+
+<p>
+Computer Science undergraduate building secure, practical, and production-ready applications.
+</p>
+
+<p>
+  <a href="https://github.com/abhinaybhuvanesh?tab=repositories">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/abhinaybhuvanesh/abhinaybhuvanesh/raw/main/Abhinay_Bhuvanesh_Resume.pdf">
+    <img src="https://img.shields.io/badge/RESUME-DB2777?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="https://linkedin.com/in/abhinaybhuvanesh">
+    <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhinaybhuvanesh01@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
+<img align="right" width="390" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
 
-## Hey, I'm Abhinay 👋
+## About Me
 
-I build full-stack applications end to end — interface, API, database, infra — and I'd rather understand *why* something works than just get it working. That instinct is what's shaped most of my growth: shipping projects, watching them break in production-like conditions, and fixing the actual cause instead of the symptom.
+I am a **Full-Stack Developer** and Computer Science undergraduate at **KL University**.
 
-I'm a Computer Science undergrad at **KL University**, currently deep in **Java, data structures & algorithms, backend systems, and system design** — the fundamentals that make everything else easier later.
+I enjoy building complete applications—from responsive interfaces and REST APIs to authentication, databases, caching, and cloud deployment.
 
-</td>
-<td width="35%" valign="top">
+- Building full-stack applications with MERN
+- Solving DSA problems using Java
+- Learning backend engineering and system design
+- Exploring scalable cloud deployment
+- Open to software development opportunities
 
-**📍 Focus right now**
-- Backend architecture & DB design
-- DSA — daily practice
-- System design fundamentals
+<br clear="right">
 
-**🔗 Find me**
-- [Portfolio / Repos](https://github.com/abhinaybhuvanesh?tab=repositories)
-- [Resume](./Abhinay_Bhuvanesh_Resume.pdf)
-- [LinkedIn](https://linkedin.com/in/abhinaybhuvanesh)
-- [Email](mailto:abhinaybhuvanesh01@gmail.com)
+---
 
-</td>
-</tr>
-</table>
-
-<br>
-
-## Stack
-
-| Layer | Tools |
-|---|---|
-| **Languages** | Java · C · JavaScript |
-| **Frontend** | React · Vite · HTML · CSS |
-| **Backend** | Node.js · Express |
-| **Data** | MongoDB · MySQL · Redis |
-| **Infra / Ops** | AWS · Nginx · Git · GitHub |
-
-<br>
-
-## Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://swiftbyte-url.vercel.app/">
-  <img src="./assets/swiftbyte-world.gif" width="100%" alt="SwiftByte animated project artwork"/>
-</a>
-
-**SwiftByte** — URL shortening & analytics platform
-
-Custom aliases, protected links, QR generation, and click analytics, backed by Redis caching and deployed on AWS behind Nginx. Built to handle auth flows and link protection properly, not just as a toy shortener.
-
-`React` `Node.js` `Express` `MongoDB` `Redis` `JWT` `AWS` `Nginx`
-
-[Live Demo](https://swiftbyte-url.vercel.app/) · [Source](https://github.com/abhinaybhuvanesh/url-platform)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://hiresense-resume-analysis.vercel.app/">
-  <img src="./assets/hiresense-world.gif" width="100%" alt="HireSense AI animated project artwork"/>
-</a>
-
-**HireSense AI** — AI-powered resume screener
-
-Parses resumes and job descriptions, scores candidates against ATS-style criteria, flags missing skills, and ranks applicants — using the Gemini API for the matching logic.
-
-`React` `Vite` `Node.js` `Express` `Gemini API` `PDF-Parse` `Vercel`
-
-[Live Demo](https://hiresense-resume-analysis.vercel.app/) · [Source](https://github.com/abhinaybhuvanesh/HireSense-AI)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Activity
+## Technology Stack
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=050816&color=A5B4FC&line=22D3EE&point=C4B5FD&area=true&area_color=4F46E5&border_color=312E81&radius=16" alt="Abhinay's GitHub activity graph"/>
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs&theme=dark" alt="Languages and frontend technologies"/>
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinaybhuvanesh/abhinaybhuvanesh/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinaybhuvanesh/abhinaybhuvanesh/output/github-snake.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/abhinaybhuvanesh/abhinaybhuvanesh/output/github-snake.svg" alt="Abhinay's contribution snake"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,redis,aws,nginx,git,github&theme=dark" alt="Backend, databases, cloud and tools"/>
 
 </div>
 
-<br>
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">SwiftByte</h3>
+
+<p align="center">
+Full-stack URL shortening and analytics platform with secure authentication, custom aliases, protected links, QR codes, Redis caching, and AWS deployment.
+</p>
+
+<p align="center">
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+<code>Redis</code>
+<code>JWT</code>
+<code>AWS</code>
+</p>
+
+<p align="center">
+  <a href="https://swiftbyte-url.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
+  </a>
+  <a href="https://github.com/abhinaybhuvanesh/url-platform">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/>
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">HireSense AI</h3>
+
+<p align="center">
+AI-powered resume screening platform that generates ATS scores, identifies skill gaps, compares candidates, and provides an AI recruiter assistant.
+</p>
+
+<p align="center">
+<code>React</code>
+<code>Vite</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>Gemini API</code>
+<code>PDF-Parse</code>
+</p>
+
+<p align="center">
+  <a href="https://hiresense-resume-analysis.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense AI live demo"/>
+  </a>
+  <a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="HireSense AI source code"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<samp>Building in public. Fixing what breaks. Repeat.</samp>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=38BDF8&area=true&area_color=6D28D9&hide_border=true&radius=12" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=50&lines=BUILD.+LEARN.+IMPROVE.+REPEAT.;BEAT+THE+ODDS." alt="Animated closing message"/>
 
 </div>
