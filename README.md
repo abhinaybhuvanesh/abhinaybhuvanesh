@@ -5,12 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&height=45&lines=Building+secure+and+production-ready+applications;From+responsive+interfaces+to+cloud+deployment;Turning+ideas+into+working+products" alt="Animated introduction"/>
 
 <p>
-  <a href="https://github.com/abhinaybhuvanesh?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/abhinaybhuvanesh/abhinaybhuvanesh/raw/main/Abhinay_Bhuvanesh_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
-  </a>
   <a href="https://linkedin.com/in/abhinaybhuvanesh">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
