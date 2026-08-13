@@ -1,105 +1,145 @@
 <div align="center">
 
-<img src="./assets/abhinay-hero.gif" width="100%" alt="Abhinay Bhuvanesh — Full-Stack Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:020617,45:4F46E5,100:0891B2&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=40&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=57&descSize=16&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&height=45&lines=Building+secure+and+production-ready+applications;From+responsive+interfaces+to+cloud+deployment;Turning+ideas+into+working+products" alt="Animated introduction"/>
+
+<p>
+  <a href="https://linkedin.com/in/abhinaybhuvanesh">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhinaybhuvanesh01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-## Hey, I'm Abhinay 👋
-
-I build full-stack applications end to end — interface, API, database, infra — and I'd rather understand *why* something works than just get it working. That instinct is what's shaped most of my growth: shipping projects, watching them break in production-like conditions, and fixing the actual cause instead of the symptom.
-
-I'm a Computer Science undergrad at **KL University**, currently deep in **Java, data structures & algorithms, backend systems, and system design** — the fundamentals that make everything else easier later.
-
-</td>
-<td width="35%" valign="top">
-
-**📍 Focus right now**
-- Backend architecture & DB design
-- DSA — daily practice
-- System design fundamentals
-
-**🔗 Find me**
-- [Portfolio / Repos](https://github.com/abhinaybhuvanesh?tab=repositories)
-- [Resume](./Abhinay_Bhuvanesh_Resume.pdf)
-- [LinkedIn](https://linkedin.com/in/abhinaybhuvanesh)
-- [Email](mailto:abhinaybhuvanesh01@gmail.com)
-
-</td>
-</tr>
-</table>
+<img width="100%" height="55" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:111827,50:312E81,100:164E63&text=ABOUT%20ME&fontColor=FFFFFF&fontSize=20&fontAlignY=56&stroke=6366F1&strokeWidth=1"/>
 
 <br>
 
-## Stack
+<img align="right" width="390" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
 
-| Layer | Tools |
-|---|---|
-| **Languages** | Java · C · JavaScript |
-| **Frontend** | React · Vite · HTML · CSS |
-| **Backend** | Node.js · Express |
-| **Data** | MongoDB · MySQL · Redis |
-| **Infra / Ops** | AWS · Nginx · Git · GitHub |
+### Full-Stack Developer
+
+Computer Science undergraduate at KL University focused on building useful and production-ready software.
+
+I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, caching, and cloud deployment.
 
 <br>
 
-## Projects
+<img src="https://img.shields.io/badge/Current_Focus-Java_&_DSA-111827?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java and DSA"/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Building-Full--Stack_Applications-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-stack applications"/>
 
-<a href="https://swiftbyte-url.vercel.app/">
-  <img src="./assets/swiftbyte-world.gif" width="100%" alt="SwiftByte animated project artwork"/>
-</a>
+<img src="https://img.shields.io/badge/Learning-Backend_&_System_Design-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Backend and system design"/>
 
-**SwiftByte** — URL shortening & analytics platform
+<img src="https://img.shields.io/badge/Exploring-Cloud_Deployment-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Cloud deployment"/>
 
-Custom aliases, protected links, QR generation, and click analytics, backed by Redis caching and deployed on AWS behind Nginx. Built to handle auth flows and link protection properly, not just as a toy shortener.
-
-`React` `Node.js` `Express` `MongoDB` `Redis` `JWT` `AWS` `Nginx`
-
-[Live Demo](https://swiftbyte-url.vercel.app/) · [Source](https://github.com/abhinaybhuvanesh/url-platform)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://hiresense-resume-analysis.vercel.app/">
-  <img src="./assets/hiresense-world.gif" width="100%" alt="HireSense AI animated project artwork"/>
-</a>
-
-**HireSense AI** — AI-powered resume screener
-
-Parses resumes and job descriptions, scores candidates against ATS-style criteria, flags missing skills, and ranks applicants — using the Gemini API for the matching logic.
-
-`React` `Vite` `Node.js` `Express` `Gemini API` `PDF-Parse` `Vercel`
-
-[Live Demo](https://hiresense-resume-analysis.vercel.app/) · [Source](https://github.com/abhinaybhuvanesh/HireSense-AI)
-
-</td>
-</tr>
-</table>
-
+<br clear="right">
 <br>
 
-## Activity
+<img width="100%" height="55" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:111827,50:312E81,100:164E63&text=ENGINEERING%20TOOLKIT&fontColor=FFFFFF&fontSize=20&fontAlignY=56&stroke=6366F1&strokeWidth=1"/>
+
+<br>
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=050816&color=A5B4FC&line=22D3EE&point=C4B5FD&area=true&area_color=4F46E5&border_color=312E81&radius=16" alt="Abhinay's GitHub activity graph"/>
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs&theme=dark" alt="Languages and web technologies"/>
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinaybhuvanesh/abhinaybhuvanesh/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinaybhuvanesh/abhinaybhuvanesh/output/github-snake.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/abhinaybhuvanesh/abhinaybhuvanesh/output/github-snake.svg" alt="Abhinay's contribution snake"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,redis,aws,nginx,git,github&theme=dark" alt="Backend, database and cloud technologies"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FRONTEND-React_•_Vite_•_HTML_•_CSS-312E81?style=for-the-badge" alt="Frontend technologies"/>
+<img src="https://img.shields.io/badge/BACKEND-Node.js_•_Express_•_REST_APIs-164E63?style=for-the-badge" alt="Backend technologies"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/DATABASES-MongoDB_•_MySQL_•_Redis-0F172A?style=for-the-badge" alt="Databases"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS_•_Nginx_•_Vercel-1E1B4B?style=for-the-badge" alt="Cloud technologies"/>
+
+</div>
+
+<br>
+
+<img width="100%" height="55" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:111827,50:312E81,100:164E63&text=FEATURED%20PROJECTS&fontColor=FFFFFF&fontSize=20&fontAlignY=56&stroke=6366F1&strokeWidth=1"/>
+
+<br>
+
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:1E1B4B,100:6D28D9&text=SWIFTBYTE&fontColor=FFFFFF&fontSize=24&fontAlignY=52" alt="SwiftByte"/>
+
+<br>
+
+A production-ready URL shortening and analytics platform featuring secure authentication, custom aliases, password-protected links, QR codes, Redis caching, and AWS deployment.
+
+<br><br>
+
+React Node.js Express MongoDB  
+Redis JWT AWS Nginx
+
+<br><br>
+
+<a href="https://swiftbyte-url.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
+</a>
+<a href="https://github.com/abhinaybhuvanesh/url-platform">
+  <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source"/>
+</a>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:172554,100:0891B2&text=HIRESENSE%20AI&fontColor=FFFFFF&fontSize=24&fontAlignY=52" alt="HireSense AI"/>
+
+<br>
+
+An AI-powered resume screening platform that generates ATS scores, identifies matched and missing skills, compares candidates, and provides an AI recruiter assistant.
+
+<br><br>
+
+React Vite Node.js Express  
+Gemini API PDF-Parse Vercel
+
+<br><br>
+
+<a href="https://hiresense-resume-analysis.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/>
+</a>
+<a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
+  <img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="100%" height="55" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:111827,50:312E81,100:164E63&text=GITHUB%20ACTIVITY&fontColor=FFFFFF&fontSize=20&fontAlignY=56&stroke=6366F1&strokeWidth=1"/>
+
+<br>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=080B14&color=C4B5FD&line=8B5CF6&point=22D3EE&area=true&area_color=6D28D9&border_color=4F46E5&radius=16" alt="GitHub contribution graph"/>
 
 </div>
 
@@ -107,6 +147,8 @@ Parses resumes and job descriptions, scores candidates against ATS-style criteri
 
 <div align="center">
 
-<samp>Building in public. Fixing what breaks. Repeat.</samp>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=55&lines=BUILD+WITH+INTENT.;LEARN+WITHOUT+LIMITS.;BEAT+THE+ODDS." alt="Animated closing message"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:0891B2,50:6D28D9,100:020617"/>
 
 </div>
