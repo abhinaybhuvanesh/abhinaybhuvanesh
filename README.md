@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,35:312E81,70:6D28D9,100:0891B2&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=44&fontAlignY=43&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20MERN%20%E2%80%A2%20CLOUD&descAlignY=65&descSize=17&animation=fadeIn&stroke=8B5CF6&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:020617,45:4F46E5,100:0891B2&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=40&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=57&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Building+secure+and+production-ready+applications;From+responsive+interfaces+to+cloud+deployment;Turning+ideas+into+working+products" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&height=45&lines=Building+secure+and+production-ready+applications;From+responsive+interfaces+to+cloud+deployment;Turning+ideas+into+working+products" alt="Animated introduction"/>
 
 <p>
   <a href="https://github.com/abhinaybhuvanesh?tab=repositories">
-    <img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/abhinaybhuvanesh/abhinaybhuvanesh/raw/main/Abhinay_Bhuvanesh_Resume.pdf">
-    <img src="https://img.shields.io/badge/RESUME-DB2777?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://linkedin.com/in/abhinaybhuvanesh">
-    <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhinaybhuvanesh01@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
