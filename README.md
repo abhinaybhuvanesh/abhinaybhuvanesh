@@ -23,8 +23,6 @@ Hi, I’m Abhinay — a Computer Science undergraduate at KL University.
 
 I enjoy building full-stack applications and understanding how every part connects: the interface, APIs, authentication, databases, and deployment.
 
-I built **SwiftByte** to learn secure backend development, authentication, analytics, and real-world deployment. I built **HireSense AI** to explore how AI can help with resume screening and candidate ranking.
-
 Currently focusing on **Java, DSA, backend development**.
 
 </td>
