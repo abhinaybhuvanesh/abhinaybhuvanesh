@@ -24,7 +24,7 @@
 
 Computer Science undergraduate at **KL University** focused on building useful and production-ready software.
 
-I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, caching, and cloud deployment.
+I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, and cloud deployment.
 
 <br>
 
