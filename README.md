@@ -79,12 +79,11 @@ I work across the complete development lifecycle—from designing responsive int
 
 <br>
 
-A production-ready URL shortening and analytics platform featuring secure authentication, custom aliases, password-protected links, QR codes, Redis caching, and AWS deployment.
+A production-ready URL shortening and analytics platform featuring secure authentication, custom aliases, password-protected links, QR codes.
 
 <br><br>
 
-`React` `Node.js` `Express` `MongoDB`  
-`Redis` `JWT` `AWS` `Nginx`
+`React` `Node.js` `Express` `MongoDB` `JWT` `AWS`
 
 <br><br>
 
