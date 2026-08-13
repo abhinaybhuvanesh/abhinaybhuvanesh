@@ -2,38 +2,55 @@
 
 <img src="./assets/abhinay-hero.gif" width="100%" alt="Abhinay Bhuvanesh — Full-Stack Developer"/>
 
-<br><br>
-
-<a href="https://github.com/abhinaybhuvanesh?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-0B1535?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio"/></a>
-<a href="./Abhinay_Bhuvanesh_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0B1535?style=for-the-badge&logo=readthedocs&logoColor=C4B5FD" alt="Resume"/></a>
-<a href="https://linkedin.com/in/abhinaybhuvanesh"><img src="https://img.shields.io/badge/LinkedIn-0B1535?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/></a>
-<a href="mailto:abhinaybhuvanesh01@gmail.com"><img src="https://img.shields.io/badge/Email-0B1535?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Email"/></a>
-
 </div>
 
 <br>
 
-## About me
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-I'm Abhinay, a Computer Science undergraduate at KL University. I enjoy building full-stack applications and understanding how each part works—from the user interface and APIs to databases and deployment.
+## Hey, I'm Abhinay 👋
 
-Most of what I know has come from building projects, breaking things, fixing them, and then improving them. Right now, I'm focusing on Java, DSA, backend development, and system-design fundamentals.
+I build full-stack applications end to end — interface, API, database, infra — and I'd rather understand *why* something works than just get it working. That instinct is what's shaped most of my growth: shipping projects, watching them break in production-like conditions, and fixing the actual cause instead of the symptom.
+
+I'm a Computer Science undergrad at **KL University**, currently deep in **Java, data structures & algorithms, backend systems, and system design** — the fundamentals that make everything else easier later.
+
+</td>
+<td width="35%" valign="top">
+
+**📍 Focus right now**
+- Backend architecture & DB design
+- DSA — daily practice
+- System design fundamentals
+
+**🔗 Find me**
+- [Portfolio / Repos](https://github.com/abhinaybhuvanesh?tab=repositories)
+- [Resume](./Abhinay_Bhuvanesh_Resume.pdf)
+- [LinkedIn](https://linkedin.com/in/abhinaybhuvanesh)
+- [Email](mailto:abhinaybhuvanesh01@gmail.com)
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## Tech I work with
+## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,redis,aws,nginx,git,github&perline=8&theme=dark" alt="Technologies and tools"/>
-
-</div>
+| Layer | Tools |
+|---|---|
+| **Languages** | Java · C · JavaScript |
+| **Frontend** | React · Vite · HTML · CSS |
+| **Backend** | Node.js · Express |
+| **Data** | MongoDB · MySQL · Redis |
+| **Infra / Ops** | AWS · Nginx · Git · GitHub |
 
 <br>
 
 ## Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -41,15 +58,13 @@ Most of what I know has come from building projects, breaking things, fixing the
   <img src="./assets/swiftbyte-world.gif" width="100%" alt="SwiftByte animated project artwork"/>
 </a>
 
-### SwiftByte
+**SwiftByte** — URL shortening & analytics platform
 
-A URL shortening and analytics platform with authentication, custom aliases, protected links, QR codes, Redis caching, and AWS deployment.
+Custom aliases, protected links, QR generation, and click analytics, backed by Redis caching and deployed on AWS behind Nginx. Built to handle auth flows and link protection properly, not just as a toy shortener.
 
-`React` `Node.js` `Express` `MongoDB`  
-`Redis` `JWT` `AWS` `Nginx`
+`React` `Node.js` `Express` `MongoDB` `Redis` `JWT` `AWS` `Nginx`
 
-<a href="https://swiftbyte-url.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-155E75?style=flat-square&logo=vercel&logoColor=white" alt="SwiftByte live demo"/></a>
-<a href="https://github.com/abhinaybhuvanesh/url-platform"><img src="https://img.shields.io/badge/Source_Code-312E81?style=flat-square&logo=github&logoColor=white" alt="SwiftByte source code"/></a>
+[Live Demo](https://swiftbyte-url.vercel.app/) · [Source](https://github.com/abhinaybhuvanesh/url-platform)
 
 </td>
 <td width="50%" valign="top">
@@ -58,15 +73,13 @@ A URL shortening and analytics platform with authentication, custom aliases, pro
   <img src="./assets/hiresense-world.gif" width="100%" alt="HireSense AI animated project artwork"/>
 </a>
 
-### HireSense AI
+**HireSense AI** — AI-powered resume screener
 
-A resume-screening platform that compares candidates with job descriptions, produces ATS scores, identifies missing skills, and ranks applicants.
+Parses resumes and job descriptions, scores candidates against ATS-style criteria, flags missing skills, and ranks applicants — using the Gemini API for the matching logic.
 
-`React` `Vite` `Node.js` `Express`  
-`Gemini API` `PDF-Parse` `Vercel`
+`React` `Vite` `Node.js` `Express` `Gemini API` `PDF-Parse` `Vercel`
 
-<a href="https://hiresense-resume-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-155E75?style=flat-square&logo=vercel&logoColor=white" alt="HireSense AI live demo"/></a>
-<a href="https://github.com/abhinaybhuvanesh/HireSense-AI"><img src="https://img.shields.io/badge/Source_Code-312E81?style=flat-square&logo=github&logoColor=white" alt="HireSense AI source code"/></a>
+[Live Demo](https://hiresense-resume-analysis.vercel.app/) · [Source](https://github.com/abhinaybhuvanesh/HireSense-AI)
 
 </td>
 </tr>
@@ -74,19 +87,13 @@ A resume-screening platform that compares candidates with job descriptions, prod
 
 <br>
 
-## GitHub activity
+## Activity
 
 <div align="center">
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=050816&color=A5B4FC&line=22D3EE&point=C4B5FD&area=true&area_color=4F46E5&border_color=312E81&radius=16" alt="Abhinay's GitHub activity graph"/>
 
-</div>
-
-<br>
-
-## Contribution snake
-
-<div align="center">
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinaybhuvanesh/abhinaybhuvanesh/output/github-snake-dark.svg">
@@ -94,8 +101,12 @@ A resume-screening platform that compares candidates with job descriptions, prod
   <img width="100%" src="https://raw.githubusercontent.com/abhinaybhuvanesh/abhinaybhuvanesh/output/github-snake.svg" alt="Abhinay's contribution snake"/>
 </picture>
 
+</div>
+
 <br>
 
-<samp>Keep learning. Keep building.</samp>
+<div align="center">
+
+<samp>Building in public. Fixing what breaks. Repeat.</samp>
 
 </div>
