@@ -101,6 +101,6 @@ An AI-powered resume screening platform that compares candidates with job descri
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:2DD4BF,50:14B8A6,100:0E7490"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:71717A,50:27272A,100:0A0A0A"/>
 
 </div>
