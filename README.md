@@ -21,18 +21,29 @@
 <tr>
 <td width="58%" valign="middle">
 
-Hi, I’m Abhinay — a Computer Science undergraduate at KL University.
+<h2>Full-Stack Developer</h2>
 
-I enjoy building full-stack applications and understanding how every part connects: the interface, APIs, authentication, databases, and deployment.
+Computer Science undergraduate at <strong>KL University</strong> focused on building useful and production-ready software.
 
-I built **SwiftByte** to learn secure backend development, authentication, analytics, and deployment. I built **HireSense AI** to explore how AI can help with resume screening and candidate ranking.
+<br><br>
 
-Currently focusing on **Java, DSA, backend development, and system-design fundamentals**.
+I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, and deployment.
 
-</td>
-<td width="42%" align="center" valign="middle">
+<br><br>
 
-<img width="330" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
+<img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-111827?style=for-the-badge&labelColor=4B5563&logo=openjdk&logoColor=F89820" alt="Current focus: Java and DSA"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-111827?style=for-the-badge&labelColor=4B5563&logo=react&logoColor=61DAFB" alt="Building full-stack applications"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-111827?style=for-the-badge&labelColor=4B5563&logo=nodedotjs&logoColor=5FA04E" alt="Learning backend and system design"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-111827?style=for-the-badge&labelColor=4B5563&logo=vercel&logoColor=white" alt="Exploring deployment and cloud"/>
 
 </td>
 </tr>
