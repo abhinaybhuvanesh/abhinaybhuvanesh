@@ -11,7 +11,7 @@
 
 ## About me
 
-<img align="right" width="330" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
 <h3>Full-Stack Developer</h3>
 
