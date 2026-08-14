@@ -1,35 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=185&color=0:020617,55:0F3D5E,100:0E7490&text=ABHINAY%20BHUVANESH&fontColor=F8FAFC&fontSize=44&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20MERN%20%E2%80%A2%20CLOUD&descAlignY=64&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:020617,50:0F3D5E,100:0E7490&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
 
 <br>
 
 <a href="https://linkedin.com/in/abhinaybhuvanesh">
-  <img src="https://img.shields.io/badge/LinkedIn-0F3D5E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:abhinaybhuvanesh01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
-<br>
+---
+
+## About me
 
 <table>
 <tr>
 <td width="58%" valign="middle">
 
-## Building useful software
+Hi, I’m Abhinay — a Computer Science undergraduate at KL University.
 
-I’m Abhinay, a Computer Science undergraduate at KL University who enjoys turning ideas into complete web applications.
+I enjoy building full-stack applications and understanding how every part connects: the interface, APIs, authentication, databases, and deployment.
 
-My work covers the full path: responsive interfaces, REST APIs, authentication, databases, and deployment. I am currently strengthening **Java, DSA, backend development, and system-design fundamentals** through hands-on projects.
+I built **SwiftByte** to learn secure backend development, authentication, analytics, and deployment. I built **HireSense AI** to explore how AI can help with resume screening and candidate ranking.
 
-<br>
-
-**Current focus**
-
-`Java` · `Data Structures & Algorithms` · `Node.js` · `Backend Engineering`
+Currently focusing on **Java, DSA, backend development, and system-design fundamentals**.
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -42,9 +40,9 @@ My work covers the full path: responsive interfaces, REST APIs, authentication, 
 
 ---
 
-<div align="center">
+## Tech stack
 
-### TECHNOLOGIES I WORK WITH
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=13&theme=dark" alt="Technology stack"/>
 
@@ -52,36 +50,31 @@ My work covers the full path: responsive interfaces, REST APIs, authentication, 
 
 ---
 
-<div align="center">
-
-### SELECTED PROJECTS
-
-</div>
+## Featured projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <a href="https://swiftbyte-url.vercel.app/">
   <img width="100%" src="./assets/swiftbyte.png" alt="SwiftByte project screenshot"/>
 </a>
 
-<h2 align="center">SwiftByte</h2>
+<h3 align="center">SwiftByte</h3>
 
-A URL shortening and analytics platform built around secure authentication, custom aliases, password-protected links, QR codes, and click analytics.
+A URL shortening and analytics platform with secure authentication, custom aliases, password-protected links, QR codes, and click analytics.
+
+`React` `Node.js` `Express` `MongoDB`  
+`JWT` `bcrypt` `QR Code` `Vercel`
 
 <div align="center">
 
-`React` · `Node.js` · `Express` · `MongoDB`  
-`JWT` · `bcrypt` · `QR Code` · `Vercel`
-
-<br><br>
-
 <a href="https://swiftbyte-url.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Live-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
 </a>
 <a href="https://github.com/abhinaybhuvanesh/url-platform">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte GitHub repository"/>
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/>
 </a>
 
 </div>
@@ -94,44 +87,39 @@ A URL shortening and analytics platform built around secure authentication, cust
   <img width="100%" src="./assets/hiresense.png" alt="HireSense AI project screenshot"/>
 </a>
 
-<h2 align="center">HireSense AI</h2>
+<h3 align="center">HireSense AI</h3>
 
-An AI-powered resume screening platform that compares candidates with job descriptions, identifies skill gaps, generates ATS scores, and ranks applicants.
+An AI-powered resume screening platform that compares candidates with job descriptions, generates ATS scores, identifies skill gaps, and ranks applicants.
+
+`React` `Vite` `Node.js` `Express`  
+`Gemini API` `Multer` `PDF-Parse` `Vercel`
 
 <div align="center">
 
-`React` · `Vite` · `Node.js` · `Express`  
-`Gemini API` · `Multer` · `PDF-Parse` · `Vercel`
-
-<br><br>
-
 <a href="https://hiresense-resume-analysis.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Live-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense AI live demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/>
 </a>
 <a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="HireSense AI GitHub repository"/>
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source code"/>
 </a>
 
 </div>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+## GitHub activity
+
 <div align="center">
 
-### CONTRIBUTION ACTIVITY
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=080B14&color=CBD5E1&line=22D3EE&point=F8FAFC&area=true&area_color=0E7490&border_color=164E63&radius=12" alt="Abhinay's GitHub contribution graph"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=080B14&color=CBD5E1&line=22D3EE&point=F8FAFC&area=true&area_color=0E7490&border_color=164E63&radius=16" alt="Abhinay's GitHub contribution graph"/>
 
 <br>
 
-<sub>BUILD CONSISTENTLY · LEARN DEEPLY · BEAT THE ODDS</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:020617,50:0F3D5E,100:0E7490"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0E7490,50:0F3D5E,100:020617"/>
 
 </div>
