@@ -17,29 +17,31 @@
 
 ## About me
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+<img align="right" width="420" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
 
-<h2>Full-Stack Developer</h2>
+### Full-Stack Developer
 
-<p>Computer Science undergraduate at <strong>KL University</strong> focused on building useful and production-ready software.</p>
+Computer Science undergraduate at **KL University** focused on building useful and production-ready software.
 
-<p>I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, and deployment.</p>
+I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, and deployment.
 
-<img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-111827?style=for-the-badge&labelColor=4B5563&logo=openjdk&logoColor=F89820" alt="Current focus: Java and DSA"/><br>
-<img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-111827?style=for-the-badge&labelColor=4B5563&logo=react&logoColor=61DAFB" alt="Building full-stack applications"/><br>
-<img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-111827?style=for-the-badge&labelColor=4B5563&logo=nodedotjs&logoColor=5FA04E" alt="Learning backend and system design"/><br>
+<br>
+
+<img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-111827?style=for-the-badge&labelColor=4B5563&logo=openjdk&logoColor=F89820" alt="Current focus: Java and DSA"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-111827?style=for-the-badge&labelColor=4B5563&logo=react&logoColor=61DAFB" alt="Building full-stack applications"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-111827?style=for-the-badge&labelColor=4B5563&logo=nodedotjs&logoColor=5FA04E" alt="Learning backend and system design"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-111827?style=for-the-badge&labelColor=4B5563&logo=vercel&logoColor=white" alt="Exploring deployment and cloud"/>
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ---
 
