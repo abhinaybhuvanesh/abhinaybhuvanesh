@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:0A0A0A,50:27272A,100:71717A&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:4B5563,50:9CA3AF,100:E5E7EB&text=ABHINAY%20BHUVANESH&fontColor=111827&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
 
 <br>
 
@@ -101,6 +101,6 @@ An AI-powered resume screening platform that compares candidates with job descri
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:71717A,50:27272A,100:0A0A0A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:E5E7EB,50:9CA3AF,100:4B5563"/>
 
 </div>
