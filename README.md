@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:0B0F14,50:242B35,100:4B5563&text=ABHINAY%20BHUVANESH&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0B0B0B,50:3A2B0C,100:B7791F&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=40&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20MERN%20%E2%80%A2%20CLOUD&descAlignY=65&descSize=15"/>
 
 <br>
 
