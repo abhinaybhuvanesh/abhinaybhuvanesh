@@ -11,23 +11,26 @@
 
 ## About me
 
-<img align="right" width="360" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
+<img align="right" width="330" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
 
-### Full-Stack Developer
+<h3>Full-Stack Developer</h3>
 
-Computer Science undergraduate at **KL University** focused on building useful and production-ready software.
+<p>
+Computer Science undergraduate at <strong>KL University</strong> focused on building useful and production-ready software.
+</p>
 
+<p>
 I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, and deployment.
+</p>
 
-<img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-111827?style=for-the-badge&labelColor=4B5563&logo=openjdk&logoColor=F89820" alt="Current focus: Java and DSA"/>
-<br>
-<img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-111827?style=for-the-badge&labelColor=4B5563&logo=react&logoColor=61DAFB" alt="Building full-stack applications"/>
-<br>
-<img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-111827?style=for-the-badge&labelColor=4B5563&logo=nodedotjs&logoColor=5FA04E" alt="Learning backend and system design"/>
-<br>
+<p>
+<img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-111827?style=for-the-badge&labelColor=4B5563&logo=openjdk&logoColor=F89820" alt="Current focus: Java and DSA"/><br/>
+<img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-111827?style=for-the-badge&labelColor=4B5563&logo=react&logoColor=61DAFB" alt="Building full-stack applications"/><br/>
+<img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-111827?style=for-the-badge&labelColor=4B5563&logo=nodedotjs&logoColor=5FA04E" alt="Learning backend and system design"/><br/>
 <img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-111827?style=for-the-badge&labelColor=4B5563&logo=vercel&logoColor=white" alt="Exploring deployment and cloud"/>
+</p>
 
-<br clear="right">
+<br clear="right"/>
 
 ## Tech stack
 
