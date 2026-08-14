@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:020617,50:0F3D5E,100:0E7490&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
+<img src="https://img.shields.io/badge/View_Live-374151?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
 
 <br>
 
