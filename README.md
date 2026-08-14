@@ -4,20 +4,14 @@
 
 <br>
 
-<a href="https://linkedin.com/in/abhinaybhuvanesh">
-  <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:abhinaybhuvanesh01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://linkedin.com/in/abhinaybhuvanesh"><img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:abhinaybhuvanesh01@gmail.com"><img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
----
-
 ## About me
 
-<img align="right" width="420" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
+<img align="right" width="360" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Developer coding animation"/>
 
 ### Full-Stack Developer
 
@@ -25,25 +19,15 @@ Computer Science undergraduate at **KL University** focused on building useful a
 
 I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, and deployment.
 
-<br>
-
 <img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-111827?style=for-the-badge&labelColor=4B5563&logo=openjdk&logoColor=F89820" alt="Current focus: Java and DSA"/>
-
 <br>
-
 <img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-111827?style=for-the-badge&labelColor=4B5563&logo=react&logoColor=61DAFB" alt="Building full-stack applications"/>
-
 <br>
-
 <img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-111827?style=for-the-badge&labelColor=4B5563&logo=nodedotjs&logoColor=5FA04E" alt="Learning backend and system design"/>
-
 <br>
-
 <img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-111827?style=for-the-badge&labelColor=4B5563&logo=vercel&logoColor=white" alt="Exploring deployment and cloud"/>
 
 <br clear="right">
-
----
 
 ## Tech stack
 
@@ -53,13 +37,10 @@ I work across the complete development lifecycle—from designing responsive int
 
 </div>
 
----
-
 ## Featured projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 <a href="https://swiftbyte-url.vercel.app/">
@@ -70,22 +51,19 @@ I work across the complete development lifecycle—from designing responsive int
 
 A URL shortening and analytics platform with secure authentication, custom aliases, password-protected links, QR codes, and click analytics.
 
-`React` `Node.js` `Express` `MongoDB`  
-`JWT` `bcrypt` `QR Code` `Vercel`
-
 <div align="center">
 
-<a href="https://swiftbyte-url.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-374151?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
-</a>
-<a href="https://github.com/abhinaybhuvanesh/url-platform">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/>
-</a>
+`React` · `Node.js` · `Express` · `MongoDB`  
+`JWT` · `bcrypt` · `QR Code` · `Vercel`
+
+<br><br>
+
+<a href="https://swiftbyte-url.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/></a>
+<a href="https://github.com/abhinaybhuvanesh/url-platform"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/></a>
 
 </div>
 
 </td>
-
 <td width="50%" valign="top">
 
 <a href="https://hiresense-resume-analysis.vercel.app/">
@@ -94,37 +72,32 @@ A URL shortening and analytics platform with secure authentication, custom alias
 
 <h3 align="center">HireSense AI</h3>
 
-An AI-powered resume screening platform that compares candidates with job descriptions, generates ATS scores, identifies skill gaps, and ranks applicants.
-
-`React` `Vite` `Node.js` `Express`  
-`Gemini API` `Multer` `PDF-Parse` `Vercel`
+An AI-powered resume screening platform that compares candidates with job descriptions, identifies skill gaps, generates ATS scores, and ranks applicants.
 
 <div align="center">
 
-<a href="https://hiresense-resume-analysis.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-374151?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/>
-</a>
-<a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source code"/>
-</a>
+`React` · `Vite` · `Node.js` · `Express`  
+`Gemini API` · `Multer` · `PDF-Parse` · `Vercel`
+
+<br><br>
+
+<a href="https://hiresense-resume-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/></a>
+<a href="https://github.com/abhinaybhuvanesh/HireSense-AI"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source code"/></a>
 
 </div>
 
 </td>
-
 </tr>
 </table>
-
----
 
 ## GitHub activity
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=0B0F14&color=D1D5DB&line=9CA3AF&point=F9FAFB&area=true&area_color=4B5563&border_color=374151&radius=16" alt="Abhinay's GitHub contribution graph"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=080B14&color=D1FAE5&line=14B8A6&point=F8FAFC&area=true&area_color=0E7490&border_color=0F766E&radius=16" alt="Abhinay's GitHub contribution graph"/>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:4B5563,50:242B35,100:0B0F14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:2DD4BF,50:14B8A6,100:0E7490"/>
 
 </div>
