@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/View_Live-374151?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:0B0F14,50:242B35,100:4B5563&text=ABHINAY%20BHUVANESH&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
 
 <br>
 
 <a href="https://linkedin.com/in/abhinaybhuvanesh">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:abhinaybhuvanesh01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -71,10 +71,10 @@ A URL shortening and analytics platform with secure authentication, custom alias
 <div align="center">
 
 <a href="https://swiftbyte-url.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-374151?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
 </a>
 <a href="https://github.com/abhinaybhuvanesh/url-platform">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/>
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/>
 </a>
 
 </div>
@@ -97,10 +97,10 @@ An AI-powered resume screening platform that compares candidates with job descri
 <div align="center">
 
 <a href="https://hiresense-resume-analysis.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-374151?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/>
 </a>
 <a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source code"/>
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source code"/>
 </a>
 
 </div>
@@ -116,10 +116,10 @@ An AI-powered resume screening platform that compares candidates with job descri
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=080B14&color=CBD5E1&line=22D3EE&point=F8FAFC&area=true&area_color=0E7490&border_color=164E63&radius=16" alt="Abhinay's GitHub contribution graph"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=0B0F14&color=D1D5DB&line=9CA3AF&point=F9FAFB&area=true&area_color=4B5563&border_color=374151&radius=16" alt="Abhinay's GitHub contribution graph"/>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0E7490,50:0F3D5E,100:020617"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:4B5563,50:242B35,100:0B0F14"/>
 
 </div>
