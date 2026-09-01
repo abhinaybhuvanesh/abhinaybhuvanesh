@@ -4,8 +4,13 @@
 
 <br>
 
-<a href="https://linkedin.com/in/abhinaybhuvanesh"><img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:abhinaybhuvanesh01@gmail.com"><img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/abhinaybhuvanesh">
+  <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:abhinaybhuvanesh01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -24,9 +29,15 @@ I work across the complete development lifecycle—from designing responsive int
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-111827?style=for-the-badge&labelColor=4B5563&logo=openjdk&logoColor=F89820" alt="Current focus: Java and DSA"/><br/>
-<img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-111827?style=for-the-badge&labelColor=4B5563&logo=react&logoColor=61DAFB" alt="Building full-stack applications"/><br/>
-<img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-111827?style=for-the-badge&labelColor=4B5563&logo=nodedotjs&logoColor=5FA04E" alt="Learning backend and system design"/><br/>
+<img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-111827?style=for-the-badge&labelColor=4B5563&logo=openjdk&logoColor=F89820" alt="Current focus: Java and DSA"/>
+<br/>
+
+<img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-111827?style=for-the-badge&labelColor=4B5563&logo=react&logoColor=61DAFB" alt="Building full-stack applications"/>
+<br/>
+
+<img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-111827?style=for-the-badge&labelColor=4B5563&logo=nodedotjs&logoColor=5FA04E" alt="Learning backend and system design"/>
+<br/>
+
 <img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-111827?style=for-the-badge&labelColor=4B5563&logo=vercel&logoColor=white" alt="Exploring deployment and cloud"/>
 </p>
 
@@ -44,6 +55,7 @@ I work across the complete development lifecycle—from designing responsive int
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <a href="https://swiftbyte-url.vercel.app/">
@@ -61,12 +73,19 @@ A URL shortening and analytics platform with secure authentication, custom alias
 
 <br><br>
 
-<a href="https://swiftbyte-url.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/></a>
-<a href="https://github.com/abhinaybhuvanesh/url-platform"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/></a>
+<a href="https://swiftbyte-url.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
+</a>
+
+<a href="https://github.com/abhinaybhuvanesh/url-platform">
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/>
+</a>
 
 </div>
 
 </td>
+
+
 <td width="50%" valign="top">
 
 <a href="https://hiresense-resume-analysis.vercel.app/">
@@ -84,12 +103,18 @@ An AI-powered resume screening platform that compares candidates with job descri
 
 <br><br>
 
-<a href="https://hiresense-resume-analysis.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/></a>
-<a href="https://github.com/abhinaybhuvanesh/HireSense-AI"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source code"/></a>
+<a href="https://hiresense-resume-analysis.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/>
+</a>
+
+<a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source code"/>
+</a>
 
 </div>
 
 </td>
+
 </tr>
 </table>
 
@@ -97,9 +122,21 @@ An AI-powered resume screening platform that compares candidates with job descri
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaybhuvanesh&bg_color=080B14&color=D1FAE5&line=14B8A6&point=F8FAFC&area=true&area_color=0E7490&border_color=0F766E&radius=16" alt="Abhinay's GitHub contribution graph"/>
+<img
+  width="96%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaybhuvanesh&theme=github_dark"
+  alt="Abhinay Bhuvanesh GitHub activity"
+/>
 
-<br>
+<br><br>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com/?user=abhinaybhuvanesh&theme=dark&hide_border=true"
+  alt="Abhinay Bhuvanesh GitHub streak"
+/>
+
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:A3A3A3,50:71717A,100:52525B"/>
 
