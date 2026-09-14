@@ -1,59 +1,66 @@
 <div align="center">
+  <!-- 🌲 Atmospheric Nature Header (Dark Forest & Night Sky) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:020617,50:064e3b,100:0f172a&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:52525B,50:71717A,100:A3A3A3&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
+  <br>
+
+  <!-- ⚡ Dynamic Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Portfolio;Building+Production-Ready+Software;Designing+Responsive+Interfaces;Architecting+REST+APIs+%26+Databases" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <a href="https://linkedin.com/in/abhinaybhuvanesh">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhinaybhuvanesh01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email"/>
+  </a>
+</div>
 
 <br>
 
-<a href="https://linkedin.com/in/abhinaybhuvanesh">
-  <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<!-- 🌿 ABOUT ME SECTION (With Nature/Lo-Fi GIF) -->
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ0bWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKr3nzb4j1w87qE/giphy.gif" alt="Lo-Fi Nature Coding" style="border-radius: 15px; border: 1px solid #064e3b;"/>
 
-<a href="mailto:abhinaybhuvanesh01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-## About me 
-
-<img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
-
-<h3>Full-Stack Developer</h3>
+<h2>👨‍💻 About Me</h2>
 
 <p>
-Computer Science undergraduate at <strong>KL University</strong> focused on building useful and production-ready software.
+  Computer Science undergraduate at <strong>KL University</strong> focused on building useful and production-ready software.
 </p>
 
 <p>
-I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, and deployment.
+  I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, and deployment.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-111827?style=for-the-badge&labelColor=4B5563&logo=openjdk&logoColor=F89820" alt="Current focus: Java and DSA"/>
-<br/>
-
-<img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-111827?style=for-the-badge&labelColor=4B5563&logo=react&logoColor=61DAFB" alt="Building full-stack applications"/>
-<br/>
-
-<img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-111827?style=for-the-badge&labelColor=4B5563&logo=nodedotjs&logoColor=5FA04E" alt="Learning backend and system design"/>
-<br/>
-
-<img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-111827?style=for-the-badge&labelColor=4B5563&logo=vercel&logoColor=white" alt="Exploring deployment and cloud"/>
+  <img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-0f172a?style=for-the-badge&labelColor=064e3b&logo=openjdk&logoColor=10B981" alt="Current focus: Java and DSA"/>
+  <br/>
+  <img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-0f172a?style=for-the-badge&labelColor=064e3b&logo=react&logoColor=10B981" alt="Building full-stack applications"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-0f172a?style=for-the-badge&labelColor=064e3b&logo=nodedotjs&logoColor=10B981" alt="Learning backend and system design"/>
+  <br/>
+  <img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-0f172a?style=for-the-badge&labelColor=064e3b&logo=vercel&logoColor=10B981" alt="Exploring deployment and cloud"/>
 </p>
 
 <br clear="right"/>
 
-## Tech stack
+<br>
+
+<!-- ⚡ TECH STACK SECTION -->
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=13&theme=dark" alt="Technology stack"/>
-
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=13&theme=dark" alt="Technology stack"/>
 </div>
 
-## Featured projects
+<br>
 
-<table>
+<!-- 🚀 FEATURED PROJECTS SECTION (UNTOUCHED AS REQUESTED) -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -118,26 +125,29 @@ An AI-powered resume screening platform that compares candidates with job descri
 </tr>
 </table>
 
-## GitHub activity
+<br>
+
+<!-- 📊 GITHUB ACTIVITY SECTION (Dark Nature Theme) -->
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
+  <!-- Reliable API for Profile Details with Dark Forest Theme -->
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaybhuvanesh&theme=tokyonight" alt="Abhinay Bhuvanesh GitHub activity"/>
+  
+  <br><br>
+  
+  <!-- Reliable Stats Cards with matching 3D Dark Theme -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&theme=tokyonight&border_radius=10&border_color=064e3b" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&theme=tokyonight&border_radius=10&border_color=064e3b" alt="Top Languages" />
 
-<img
-  width="96%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaybhuvanesh&theme=github_dark"
-  alt="Abhinay Bhuvanesh GitHub activity"
-/>
+  <br><br>
 
-<br><br>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=abhinaybhuvanesh&theme=tokyonight&border_radius=10&border_color=064e3b" alt="Abhinay Bhuvanesh GitHub streak"/>
+</div>
 
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com/?user=abhinaybhuvanesh&theme=dark&hide_border=true"
-  alt="Abhinay Bhuvanesh GitHub streak"
-/>
+<br>
 
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:A3A3A3,50:71717A,100:52525B"/>
-
+<!-- 🌿 FOOTER (Matching Nature Wave) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0f172a,50:064e3b,100:020617"/>
 </div>
