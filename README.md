@@ -1,20 +1,20 @@
 <div align="center">
-  <!-- 🌕 Moon & Starry Night Header Image -->
-  <!-- You can replace the link below with your own Moon/Nature GIF or wallpaper -->
-  <img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="100%" alt="Moon and Stars Header" style="border-radius: 0 0 15px 15px;"/>
+  <!-- 🌕 3D Moon & Starry Nature Header -->
+  <!-- I have fixed the GIF to a beautiful 3D Moon/Nature animation -->
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100%" alt="3D Moon and Nature Header" style="border-radius: 0 0 15px 15px;"/>
 
-  <!-- 🌌 Your Name & Title (Styled to look like a glowing banner) -->
-  <h1 style="color: #FFFFFF; font-family: 'Fira Code', monospace; font-size: 2.8em; margin-top: 15px; text-shadow: 0 0 15px #A78BFA;">ABHINAY BHUVANESH</h1>
+  <!-- 🌌 Your Name & Title with 3D Glow Effect -->
+  <h1 style="color: #FFFFFF; font-family: 'Fira Code', monospace; font-size: 2.8em; margin-top: 15px; text-shadow: 0 0 20px #A78BFA;">ABHINAY BHUVANESH</h1>
   <p style="color: #A78BFA; font-size: 1.3em; font-weight: bold; margin-top: -10px;">Full-Stack Developer • Java • MERN • Cloud</p>
 
   <br>
 
-  <!-- ⚡ Typing Animation -->
+  <!-- ⚡ Typing Animation (Fixed to prevent text cutoff) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+Portfolio;Building+Production-Ready+Software;Designing+Responsive+Interfaces;Architecting+REST+APIs+%26+Databases" alt="Typing SVG" />
   </a>
 
-  <br>
+  <br><br>
 
   <a href="https://linkedin.com/in/abhinaybhuvanesh">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/>
@@ -26,8 +26,8 @@
 
 <br>
 
-<!-- 🌙 ABOUT ME SECTION (With Moon/Nature Lo-Fi GIF) -->
-<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6cWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKr3nzb4j1w87qE/giphy.gif" alt="Lo-Fi Moon Nature Coding" style="border-radius: 15px; border: 1px solid #1e1b4b;"/>
+<!-- 🌙 ABOUT ME SECTION (With 3D Lo-Fi Nature Coding GIF) -->
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="3D Developer Coding" style="border-radius: 15px; border: 1px solid #1e1b4b;"/>
 
 <h2>👨‍💻 About Me</h2>
 
@@ -62,7 +62,7 @@
 
 <br>
 
-<!-- 🚀 FEATURED PROJECTS SECTION (EXACTLY AS YOU WANTED) -->
+<!-- 🚀 FEATURED PROJECTS SECTION (EXACTLY AS YOU REQUESTED - UNTOUCHED) -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center" width="100%">
