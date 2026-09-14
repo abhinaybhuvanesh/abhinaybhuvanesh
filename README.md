@@ -1,28 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/3o72F76gxE4ahR9M3u/giphy.gif" alt="Moon over water"/>
+<img width="100%" src="https://media.giphy.com/media/giYYUFV5xiqbufftCZ/giphy.gif" alt="Blue Moon Clouds"/>
 
 <br>
 
-# ABHINAY BHUVANESH
+# ☾ ABHINAY BHUVANESH
 
-### Full-Stack Developer · Java · MERN · Backend · Cloud
+### Full-Stack Developer
 
-<sub>☾ building useful software somewhere between code & moonlight ☽</sub>
+`JAVA`　`MERN`　`BACKEND`　`CLOUD`
+
+<br>
+
+**✦ turning late-night ideas into working software ✦**
 
 <br><br>
 
 <a href="https://linkedin.com/in/abhinaybhuvanesh">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-DBEAFE?style=for-the-badge&logo=linkedin&logoColor=1D4ED8"/>
 </a>
 
 <a href="mailto:abhinaybhuvanesh01@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-DBEAFE?style=for-the-badge&logo=gmail&logoColor=1D4ED8"/>
 </a>
 
 <br><br>
 
-`☾`　`✦`　`⋆`　`🌕`　`⋆`　`✦`　`☽`
+`✦　⋆　☾　⋆　✦`
 
 </div>
 
@@ -30,36 +34,39 @@
 
 ---
 
-## ☾ About Me
+<h2 align="center">ABOUT THE DEVELOPER</h2>
 
 <table>
 <tr>
-<td width="65%" valign="middle">
 
-### Hi, I'm Abhinay.
+<td width="60%">
 
-Computer Science undergraduate at **KL University** focused on building practical and production-ready software.
+### Hey, I'm Abhinay 👋
 
-I work across the development lifecycle — from **responsive interfaces and REST APIs** to authentication, databases and deployment.
+Computer Science undergraduate at **KL University**.
 
-Currently focused on:
+I enjoy building software from end to end — designing responsive interfaces, creating APIs, connecting databases and deploying applications.
 
-**Java & DSA**  
-**Full-Stack Development**  
-**Backend & System Design**  
-**Deployment & Cloud**
+My current direction is towards stronger **software engineering, backend development and system design**.
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-### 🌕
+### ☾ CURRENT ORBIT
 
-**Build. Learn. Ship.**
+`JAVA + DSA`
 
-<sub>one commit at a time.</sub>
+`FULL STACK`
+
+`BACKEND`
+
+`SYSTEM DESIGN`
+
+`CLOUD`
 
 </td>
+
 </tr>
 </table>
 
@@ -67,15 +74,11 @@ Currently focused on:
 
 ---
 
-## ✦ Tech Stack
+<h2 align="center">✦ MY TOOLKIT ✦</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=13&theme=light"/>
-
-<br><br>
-
-`Java` · `JavaScript` · `React` · `Node.js` · `Express` · `MongoDB` · `MySQL`
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=7&theme=light"/>
 
 </div>
 
@@ -83,34 +86,30 @@ Currently focused on:
 
 ---
 
-## 🚀 Selected Work
+<h2 align="center">☾ FEATURED BUILDS</h2>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<a href="https://swiftbyte-url.vercel.app/">
+<div align="center">
+
 <img width="100%" src="./assets/swiftbyte.png"/>
-</a>
 
-<h3 align="center">SwiftByte</h3>
+### SwiftByte
 
-A URL shortening and analytics platform with authentication, custom aliases, password-protected links, QR codes and click analytics.
+</div>
+
+URL shortening and analytics platform built with authentication, custom links, QR codes and analytics.
 
 <div align="center">
 
-`React` `Node.js` `Express` `MongoDB`
+`React` `Node` `Express` `MongoDB`
 
 <br><br>
 
-<a href="https://swiftbyte-url.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_PROJECT-FFFFFF?style=for-the-badge&logo=vercel&logoColor=111827"/>
-</a>
-
-<a href="https://github.com/abhinaybhuvanesh/url-platform">
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=111827"/>
-</a>
+[ **VIEW LIVE ↗** ](https://swiftbyte-url.vercel.app/)　[ **CODE ↗** ](https://github.com/abhinaybhuvanesh/url-platform)
 
 </div>
 
@@ -118,31 +117,28 @@ A URL shortening and analytics platform with authentication, custom aliases, pas
 
 <td width="50%" valign="top">
 
-<a href="https://hiresense-resume-analysis.vercel.app/">
+<div align="center">
+
 <img width="100%" src="./assets/hiresense.png"/>
-</a>
 
-<h3 align="center">HireSense AI</h3>
+### HireSense AI
 
-AI-powered resume screening that compares candidates with job descriptions, identifies skill gaps, generates ATS scores and ranks applicants.
+</div>
+
+AI resume analysis platform with candidate ranking, ATS scoring and intelligent skill analysis.
 
 <div align="center">
 
-`React` `Node.js` `Gemini` `Express`
+`React` `Gemini` `Node` `Express`
 
 <br><br>
 
-<a href="https://hiresense-resume-analysis.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_PROJECT-FFFFFF?style=for-the-badge&logo=vercel&logoColor=111827"/>
-</a>
-
-<a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=111827"/>
-</a>
+[ **VIEW LIVE ↗** ](https://hiresense-resume-analysis.vercel.app/)　[ **CODE ↗** ](https://github.com/abhinaybhuvanesh/HireSense-AI)
 
 </div>
 
 </td>
+
 </tr>
 </table>
 
@@ -150,26 +146,18 @@ AI-powered resume screening that compares candidates with job descriptions, iden
 
 ---
 
-## 🌕 GitHub Activity
+<h2 align="center">🌙 ACTIVITY</h2>
 
 <div align="center">
 
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaybhuvanesh&theme=github"/>
 
-</div>
+<br><br>
 
-<br>
-
----
-
-<div align="center">
-
-### ☾ BUILD · LEARN · SHIP ☽
-
-<sub>Turning ideas into software.</sub>
+`🌑　🌒　🌓　🌔　🌕　🌖　🌗　🌘`
 
 <br><br>
 
-`🌑　🌒　🌓　🌔　🌕　🌖　🌗　🌘　🌑`
+### ✦ keep building ✦
 
 </div>
