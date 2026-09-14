@@ -1,28 +1,28 @@
 <div align="center">
-  <!-- 🌲 Atmospheric Nature Header (Dark Forest & Night Sky) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:020617,50:064e3b,100:0f172a&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
+  <!-- 🌌 100% Reliable 3D Midnight Moon Header (Using Capsule Render) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e1b4b,100:0f172a&height=205&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
 
   <br>
 
-  <!-- ⚡ Dynamic Typing Animation -->
+  <!-- ⚡ Typing Animation (Fixed width to prevent text cutoff) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Portfolio;Building+Production-Ready+Software;Designing+Responsive+Interfaces;Architecting+REST+APIs+%26+Databases" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+Portfolio;Building+Production-Ready+Software;Designing+Responsive+Interfaces;Architecting+REST+APIs+%26+Databases" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   <a href="https://linkedin.com/in/abhinaybhuvanesh">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/>
   </a>
   <a href="mailto:abhinaybhuvanesh01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/>
   </a>
 </div>
 
 <br>
 
-<!-- 🌿 ABOUT ME SECTION (With Nature/Lo-Fi GIF) -->
-<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ0bWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cWJ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKr3nzb4j1w87qE/giphy.gif" alt="Lo-Fi Nature Coding" style="border-radius: 15px; border: 1px solid #064e3b;"/>
+<!-- 🌙 ABOUT ME SECTION (With Reliable 3D Developer GIF) -->
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="3D Developer Coding" style="border-radius: 15px; border: 1px solid #1e1b4b;"/>
 
 <h2>👨‍💻 About Me</h2>
 
@@ -35,13 +35,13 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-0f172a?style=for-the-badge&labelColor=064e3b&logo=openjdk&logoColor=10B981" alt="Current focus: Java and DSA"/>
+  <img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-0f172a?style=for-the-badge&labelColor=1e1b4b&logo=openjdk&logoColor=A78BFA" alt="Current focus: Java and DSA"/>
   <br/>
-  <img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-0f172a?style=for-the-badge&labelColor=064e3b&logo=react&logoColor=10B981" alt="Building full-stack applications"/>
+  <img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-0f172a?style=for-the-badge&labelColor=1e1b4b&logo=react&logoColor=A78BFA" alt="Building full-stack applications"/>
   <br/>
-  <img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-0f172a?style=for-the-badge&labelColor=064e3b&logo=nodedotjs&logoColor=10B981" alt="Learning backend and system design"/>
+  <img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-0f172a?style=for-the-badge&labelColor=1e1b4b&logo=nodedotjs&logoColor=A78BFA" alt="Learning backend and system design"/>
   <br/>
-  <img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-0f172a?style=for-the-badge&labelColor=064e3b&logo=vercel&logoColor=10B981" alt="Exploring deployment and cloud"/>
+  <img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-0f172a?style=for-the-badge&labelColor=1e1b4b&logo=vercel&logoColor=A78BFA" alt="Exploring deployment and cloud"/>
 </p>
 
 <br clear="right"/>
@@ -57,7 +57,7 @@
 
 <br>
 
-<!-- 🚀 FEATURED PROJECTS SECTION (UNTOUCHED AS REQUESTED) -->
+<!-- 🚀 FEATURED PROJECTS SECTION (EXACTLY AS YOU REQUESTED) -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center" width="100%">
@@ -127,27 +127,27 @@ An AI-powered resume screening platform that compares candidates with job descri
 
 <br>
 
-<!-- 📊 GITHUB ACTIVITY SECTION (Dark Nature Theme) -->
+<!-- 📊 GITHUB ACTIVITY SECTION (Midnight Moon Theme) -->
 <h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
-  <!-- Reliable API for Profile Details with Dark Forest Theme -->
+  <!-- Reliable API for Profile Details with Midnight Theme -->
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaybhuvanesh&theme=tokyonight" alt="Abhinay Bhuvanesh GitHub activity"/>
   
   <br><br>
   
-  <!-- Reliable Stats Cards with matching 3D Dark Theme -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&theme=tokyonight&border_radius=10&border_color=064e3b" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&theme=tokyonight&border_radius=10&border_color=064e3b" alt="Top Languages" />
+  <!-- Reliable Stats Cards with matching Midnight Borders -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&theme=tokyonight&border_radius=10&border_color=1e1b4b" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&theme=tokyonight&border_radius=10&border_color=1e1b4b" alt="Top Languages" />
 
   <br><br>
 
-  <img width="70%" src="https://streak-stats.demolab.com/?user=abhinaybhuvanesh&theme=tokyonight&border_radius=10&border_color=064e3b" alt="Abhinay Bhuvanesh GitHub streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=abhinaybhuvanesh&theme=tokyonight&border_radius=10&border_color=1e1b4b" alt="Abhinay Bhuvanesh GitHub streak"/>
 </div>
 
 <br>
 
-<!-- 🌿 FOOTER (Matching Nature Wave) -->
+<!-- 🌙 FOOTER (Matching Midnight Wave) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0f172a,50:064e3b,100:020617"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0f172a,50:1e1b4b,100:020617"/>
 </div>
