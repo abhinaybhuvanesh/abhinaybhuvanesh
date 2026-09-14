@@ -1,130 +1,154 @@
 <div align="center">
 
-<!-- ===================================================== -->
-<!--                 🌙 MIDNIGHT HEADER                    -->
-<!-- ===================================================== -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                     🌕 MOON THEME                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<br>
 
 <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:1e1b4b,75:172554,100:020617&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=60&descSize=17"
-  alt="Abhinay Bhuvanesh"
+  width="150"
+  src="https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg"
+  alt="Full Moon"
 />
-
-<h3>🌙 Building software after sunset.</h3>
-
-<a href="https://git.io/typing-svg">
-  <img
-    width="95%"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=A78BFA&center=true&vCenter=true&random=false&width=900&lines=Building+Production-Ready+Software;Designing+Responsive+Interfaces;Architecting+REST+APIs+%26+Databases;Turning+Ideas+Into+Working+Products"
-    alt="Typing SVG"
-  />
-</a>
 
 <br><br>
 
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=rect&height=150&color=FFFFFF&text=ABHINAY%20BHUVANESH&fontColor=111827&fontSize=42&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=70&descSize=16"
+  alt="Abhinay Bhuvanesh"
+/>
+
+<br>
+
+### ☾ Building under moonlight, one idea at a time. ☽
+
+<br>
+
 <a href="https://linkedin.com/in/abhinaybhuvanesh">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=A78BFA"
+    src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=FFFFFF"
     alt="LinkedIn"
   />
 </a>
 
 <a href="mailto:abhinaybhuvanesh01@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=A78BFA"
+    src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF"
     alt="Email"
   />
 </a>
 
+<br><br>
+
+`☾` &nbsp;&nbsp; `✦` &nbsp;&nbsp; `⋆` &nbsp;&nbsp; `🌕` &nbsp;&nbsp; `⋆` &nbsp;&nbsp; `✦` &nbsp;&nbsp; `☽`
+
 </div>
 
 <br>
 
-<!-- ===================================================== -->
-<!--                    👨‍💻 ABOUT ME                        -->
-<!-- ===================================================== -->
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<h2 align="center">☾ About Me</h2>
+
+<table width="100%">
+<tr>
+
+<td width="65%" valign="middle">
+
+I'm a **Computer Science undergraduate at KL University**, focused on building useful and production-ready software.
+
+I work across the complete development lifecycle — from **responsive interfaces and REST APIs** to authentication, databases and deployment.
+
+I enjoy turning ideas into working products while improving my skills in **software engineering, backend development and system design**.
+
+<br>
+
+<img src="https://img.shields.io/badge/☾%20CURRENT%20FOCUS-Java%20%26%20DSA-FFFFFF?style=for-the-badge&labelColor=E2E8F0&color=FFFFFF" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/✦%20BUILDING-Full--Stack%20Applications-FFFFFF?style=for-the-badge&labelColor=E2E8F0&color=FFFFFF" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/☁%20LEARNING-Backend%20%26%20System%20Design-FFFFFF?style=for-the-badge&labelColor=E2E8F0&color=FFFFFF" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🚀%20EXPLORING-Deployment%20%26%20Cloud-FFFFFF?style=for-the-badge&labelColor=E2E8F0&color=FFFFFF" />
+
+</td>
+
+<td width="35%" align="center">
 
 <img
-  align="right"
-  width="390"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Developer Coding"
-/>
-
-<h2>🌌 About Me</h2>
-
-<p>
-Computer Science undergraduate at <strong>KL University</strong>, focused on building useful, scalable and production-ready software.
-</p>
-
-<p>
-I work across the complete development lifecycle — from designing responsive interfaces and REST APIs to authentication, databases and deployment.
-</p>
-
-<p>
-I enjoy turning ideas into working products and continuously improving my skills in software engineering.
-</p>
-
-<p>
-
-<img
-  src="https://img.shields.io/badge/CURRENT%20FOCUS-Java%20%26%20DSA-0F172A?style=for-the-badge&labelColor=1E1B4B&logo=openjdk&logoColor=A78BFA"
-  alt="Java and DSA"
+  width="230"
+  src="https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg"
+  alt="Moon"
 />
 
 <br>
 
-<img
-  src="https://img.shields.io/badge/BUILDING-Full--Stack%20Applications-0F172A?style=for-the-badge&labelColor=1E1B4B&logo=react&logoColor=A78BFA"
-  alt="Full Stack Applications"
-/>
+<sub>somewhere between code & moonlight ☾</sub>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<img
-  src="https://img.shields.io/badge/LEARNING-Backend%20%26%20System%20Design-0F172A?style=for-the-badge&labelColor=1E1B4B&logo=nodedotjs&logoColor=A78BFA"
-  alt="Backend and System Design"
-/>
+<div align="center">
+
+`🌑` `🌒` `🌓` `🌔` `🌕` `🌖` `🌗` `🌘` `🌑`
+
+</div>
 
 <br>
 
-<img
-  src="https://img.shields.io/badge/EXPLORING-Deployment%20%26%20Cloud-0F172A?style=for-the-badge&labelColor=1E1B4B&logo=vercel&logoColor=A78BFA"
-  alt="Deployment and Cloud"
-/>
+---
 
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<br clear="right">
-
-<br>
-
-<!-- ===================================================== -->
-<!--                    ⚡ TECH STACK                       -->
-<!-- ===================================================== -->
-
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">✦ Tech Constellation</h2>
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=13&theme=dark"
-  alt="Technology Stack"
+  src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=13&theme=light"
+  alt="Tech Stack"
 />
-
-</div>
 
 <br><br>
 
-<!-- ===================================================== -->
-<!--                  🚀 FEATURED PROJECTS                  -->
-<!-- ===================================================== -->
+<sub>
+Java • C • JavaScript • HTML • CSS • React • Node.js • Express • MongoDB • MySQL
+</sub>
 
-<h2 align="center">🚀 Featured Projects</h2>
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<h2 align="center">🚀 Projects Beyond the Horizon</h2>
 
 <br>
 
 <table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
@@ -135,45 +159,37 @@ I enjoy turning ideas into working products and continuously improving my skills
   <img
     width="100%"
     src="./assets/swiftbyte.png"
-    alt="SwiftByte Project"
+    alt="SwiftByte"
   />
 </a>
 
-<h3>🔗 SwiftByte</h3>
+<h3>☾ SwiftByte</h3>
 
 </div>
 
-<p>
 A URL shortening and analytics platform with secure authentication, custom aliases, password-protected links, QR codes and click analytics.
-</p>
 
 <div align="center">
 
-<p>
-<code>React</code>
-<code>Node.js</code>
-<code>Express</code>
-<code>MongoDB</code>
 <br>
-<code>JWT</code>
-<code>bcrypt</code>
-<code>QR Code</code>
-<code>Vercel</code>
-</p>
 
-<br>
+`React` · `Node.js` · `Express` · `MongoDB`
+
+`JWT` · `bcrypt` · `QR Code` · `Vercel`
+
+<br><br>
 
 <a href="https://swiftbyte-url.vercel.app/">
   <img
-    src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="SwiftByte Live Demo"
+    src="https://img.shields.io/badge/Live%20Demo-FFFFFF?style=for-the-badge&logo=vercel&logoColor=111827"
+    alt="Live Demo"
   />
 </a>
 
 <a href="https://github.com/abhinaybhuvanesh/url-platform">
   <img
-    src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=A78BFA"
-    alt="SwiftByte Source Code"
+    src="https://img.shields.io/badge/Source%20Code-FFFFFF?style=for-the-badge&logo=github&logoColor=111827"
+    alt="Source Code"
   />
 </a>
 
@@ -189,45 +205,37 @@ A URL shortening and analytics platform with secure authentication, custom alias
   <img
     width="100%"
     src="./assets/hiresense.png"
-    alt="HireSense AI Project"
+    alt="HireSense AI"
   />
 </a>
 
-<h3>🤖 HireSense AI</h3>
+<h3>✦ HireSense AI</h3>
 
 </div>
 
-<p>
 An AI-powered resume screening platform that compares candidates with job descriptions, identifies skill gaps, generates ATS scores and ranks applicants.
-</p>
 
 <div align="center">
 
-<p>
-<code>React</code>
-<code>Vite</code>
-<code>Node.js</code>
-<code>Express</code>
 <br>
-<code>Gemini API</code>
-<code>Multer</code>
-<code>PDF-Parse</code>
-<code>Vercel</code>
-</p>
 
-<br>
+`React` · `Vite` · `Node.js` · `Express`
+
+`Gemini API` · `Multer` · `PDF-Parse` · `Vercel`
+
+<br><br>
 
 <a href="https://hiresense-resume-analysis.vercel.app/">
   <img
-    src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="HireSense Live Demo"
+    src="https://img.shields.io/badge/Live%20Demo-FFFFFF?style=for-the-badge&logo=vercel&logoColor=111827"
+    alt="Live Demo"
   />
 </a>
 
 <a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
   <img
-    src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=A78BFA"
-    alt="HireSense Source Code"
+    src="https://img.shields.io/badge/Source%20Code-FFFFFF?style=for-the-badge&logo=github&logoColor=111827"
+    alt="Source Code"
   />
 </a>
 
@@ -236,21 +244,32 @@ An AI-powered resume screening platform that compares candidates with job descri
 </td>
 
 </tr>
+
 </table>
 
-<br><br>
+<br>
 
-<!-- ===================================================== -->
-<!--                  📊 GITHUB ACTIVITY                    -->
-<!-- ===================================================== -->
+<div align="center">
 
-<h2 align="center">📊 GitHub Activity</h2>
+`✦` &nbsp;&nbsp;&nbsp; `⋆` &nbsp;&nbsp;&nbsp; `☾` &nbsp;&nbsp;&nbsp; `⋆` &nbsp;&nbsp;&nbsp; `✦`
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    GITHUB ACTIVITY                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌕 GitHub Orbit</h2>
 
 <div align="center">
 
 <img
   width="96%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaybhuvanesh&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaybhuvanesh&theme=github"
   alt="GitHub Activity"
 />
 
@@ -258,45 +277,63 @@ An AI-powered resume screening platform that compares candidates with job descri
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&border_color=312E81"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinaybhuvanesh&theme=github"
   alt="GitHub Stats"
 />
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&border_color=312E81"
-  alt="Top Languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinaybhuvanesh&theme=github"
+  alt="Languages"
 />
 
 <br><br>
 
 <img
-  width="70%"
-  src="https://streak-stats.demolab.com/?user=abhinaybhuvanesh&theme=tokyonight&border_radius=12&border=312E81"
-  alt="GitHub Streak"
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinaybhuvanesh&theme=github"
+  alt="Most Commit Language"
+/>
+
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinaybhuvanesh&theme=github&utcOffset=5.5"
+  alt="Productive Time"
 />
 
 </div>
 
-<br><br>
+<br>
 
-<!-- ===================================================== -->
-<!--                    🌙 NIGHT FOOTER                     -->
-<!-- ===================================================== -->
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                       FOOTER                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3>☾ Code • Build • Learn • Repeat ☽</h3>
+<br>
 
-<sub>
+<img
+  width="110"
+  src="https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg"
+  alt="Moon"
+/>
+
+### ☾ Code • Build • Learn • Repeat ☽
+
 Turning ideas into software, one commit at a time.
-</sub>
 
-<br><br>
+<br>
+
+`✦ ───── ⋆⋅☆⋅⋆ ───── ✦`
+
+<br>
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:1e1b4b,75:172554,100:020617"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FFFFFF,50:E2E8F0,100:FFFFFF"
   alt="Footer"
 />
 
