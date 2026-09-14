@@ -1,121 +1,234 @@
 <div align="center">
-  <!-- 🌌 100% Reliable 3D Midnight Moon Header (Using Capsule Render) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e1b4b,100:0f172a&height=205&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
 
-  <br>
+<!-- ===================================================== -->
+<!--                 🌙 MIDNIGHT HEADER                    -->
+<!-- ===================================================== -->
 
-  <!-- ⚡ Typing Animation (Fixed width to prevent text cutoff) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+Portfolio;Building+Production-Ready+Software;Designing+Responsive+Interfaces;Architecting+REST+APIs+%26+Databases" alt="Typing SVG" />
-  </a>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:1e1b4b,75:172554,100:020617&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=60&descSize=17"
+  alt="Abhinay Bhuvanesh"
+/>
 
-  <br><br>
+<h3>🌙 Building software after sunset.</h3>
 
-  <a href="https://linkedin.com/in/abhinaybhuvanesh">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abhinaybhuvanesh01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/>
-  </a>
+<a href="https://git.io/typing-svg">
+  <img
+    width="95%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=A78BFA&center=true&vCenter=true&random=false&width=900&lines=Building+Production-Ready+Software;Designing+Responsive+Interfaces;Architecting+REST+APIs+%26+Databases;Turning+Ideas+Into+Working+Products"
+    alt="Typing SVG"
+  />
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/abhinaybhuvanesh">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=A78BFA"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:abhinaybhuvanesh01@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=A78BFA"
+    alt="Email"
+  />
+</a>
+
 </div>
 
 <br>
 
-<!-- 🌙 ABOUT ME SECTION (With Reliable 3D Developer GIF) -->
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="3D Developer Coding" style="border-radius: 15px; border: 1px solid #1e1b4b;"/>
+<!-- ===================================================== -->
+<!--                    👨‍💻 ABOUT ME                        -->
+<!-- ===================================================== -->
 
-<h2>👨‍💻 About Me</h2>
+<img
+  align="right"
+  width="390"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Developer Coding"
+/>
+
+<h2>🌌 About Me</h2>
 
 <p>
-  Computer Science undergraduate at <strong>KL University</strong> focused on building useful and production-ready software.
+Computer Science undergraduate at <strong>KL University</strong>, focused on building useful, scalable and production-ready software.
 </p>
 
 <p>
-  I work across the complete development lifecycle—from designing responsive interfaces and REST APIs to authentication, databases, and deployment.
+I work across the complete development lifecycle — from designing responsive interfaces and REST APIs to authentication, databases and deployment.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/CURRENT_FOCUS-Java_%26_DSA-0f172a?style=for-the-badge&labelColor=1e1b4b&logo=openjdk&logoColor=A78BFA" alt="Current focus: Java and DSA"/>
-  <br/>
-  <img src="https://img.shields.io/badge/BUILDING-Full--Stack_Applications-0f172a?style=for-the-badge&labelColor=1e1b4b&logo=react&logoColor=A78BFA" alt="Building full-stack applications"/>
-  <br/>
-  <img src="https://img.shields.io/badge/LEARNING-Backend_%26_System_Design-0f172a?style=for-the-badge&labelColor=1e1b4b&logo=nodedotjs&logoColor=A78BFA" alt="Learning backend and system design"/>
-  <br/>
-  <img src="https://img.shields.io/badge/EXPLORING-Deployment_%26_Cloud-0f172a?style=for-the-badge&labelColor=1e1b4b&logo=vercel&logoColor=A78BFA" alt="Exploring deployment and cloud"/>
+I enjoy turning ideas into working products and continuously improving my skills in software engineering.
 </p>
 
-<br clear="right"/>
+<p>
+
+<img
+  src="https://img.shields.io/badge/CURRENT%20FOCUS-Java%20%26%20DSA-0F172A?style=for-the-badge&labelColor=1E1B4B&logo=openjdk&logoColor=A78BFA"
+  alt="Java and DSA"
+/>
 
 <br>
 
-<!-- ⚡ TECH STACK SECTION -->
+<img
+  src="https://img.shields.io/badge/BUILDING-Full--Stack%20Applications-0F172A?style=for-the-badge&labelColor=1E1B4B&logo=react&logoColor=A78BFA"
+  alt="Full Stack Applications"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/LEARNING-Backend%20%26%20System%20Design-0F172A?style=for-the-badge&labelColor=1E1B4B&logo=nodedotjs&logoColor=A78BFA"
+  alt="Backend and System Design"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/EXPLORING-Deployment%20%26%20Cloud-0F172A?style=for-the-badge&labelColor=1E1B4B&logo=vercel&logoColor=A78BFA"
+  alt="Deployment and Cloud"
+/>
+
+</p>
+
+<br clear="right">
+
+<br>
+
+<!-- ===================================================== -->
+<!--                    ⚡ TECH STACK                       -->
+<!-- ===================================================== -->
+
 <h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=13&theme=dark" alt="Technology stack"/>
+
+<img
+  src="https://skillicons.dev/icons?i=java,c,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github&perline=13&theme=dark"
+  alt="Technology Stack"
+/>
+
 </div>
+
+<br><br>
+
+<!-- ===================================================== -->
+<!--                  🚀 FEATURED PROJECTS                  -->
+<!-- ===================================================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <br>
 
-<!-- 🚀 FEATURED PROJECTS SECTION (EXACTLY AS YOU REQUESTED) -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 <a href="https://swiftbyte-url.vercel.app/">
-  <img width="100%" src="./assets/swiftbyte.png" alt="SwiftByte project screenshot"/>
+  <img
+    width="100%"
+    src="./assets/swiftbyte.png"
+    alt="SwiftByte Project"
+  />
 </a>
 
-<h3 align="center">SwiftByte</h3>
+<h3>🔗 SwiftByte</h3>
 
-A URL shortening and analytics platform with secure authentication, custom aliases, password-protected links, QR codes, and click analytics.
+</div>
+
+<p>
+A URL shortening and analytics platform with secure authentication, custom aliases, password-protected links, QR codes and click analytics.
+</p>
 
 <div align="center">
 
-`React` · `Node.js` · `Express` · `MongoDB`  
-`JWT` · `bcrypt` · `QR Code` · `Vercel`
+<p>
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+<br>
+<code>JWT</code>
+<code>bcrypt</code>
+<code>QR Code</code>
+<code>Vercel</code>
+</p>
 
-<br><br>
+<br>
 
 <a href="https://swiftbyte-url.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="SwiftByte live demo"/>
+  <img
+    src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="SwiftByte Live Demo"
+  />
 </a>
 
 <a href="https://github.com/abhinaybhuvanesh/url-platform">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="SwiftByte source code"/>
+  <img
+    src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=A78BFA"
+    alt="SwiftByte Source Code"
+  />
 </a>
 
 </div>
 
 </td>
 
-
 <td width="50%" valign="top">
-
-<a href="https://hiresense-resume-analysis.vercel.app/">
-  <img width="100%" src="./assets/hiresense.png" alt="HireSense AI project screenshot"/>
-</a>
-
-<h3 align="center">HireSense AI</h3>
-
-An AI-powered resume screening platform that compares candidates with job descriptions, identifies skill gaps, generates ATS scores, and ranks applicants.
 
 <div align="center">
 
-`React` · `Vite` · `Node.js` · `Express`  
-`Gemini API` · `Multer` · `PDF-Parse` · `Vercel`
+<a href="https://hiresense-resume-analysis.vercel.app/">
+  <img
+    width="100%"
+    src="./assets/hiresense.png"
+    alt="HireSense AI Project"
+  />
+</a>
 
-<br><br>
+<h3>🤖 HireSense AI</h3>
+
+</div>
+
+<p>
+An AI-powered resume screening platform that compares candidates with job descriptions, identifies skill gaps, generates ATS scores and ranks applicants.
+</p>
+
+<div align="center">
+
+<p>
+<code>React</code>
+<code>Vite</code>
+<code>Node.js</code>
+<code>Express</code>
+<br>
+<code>Gemini API</code>
+<code>Multer</code>
+<code>PDF-Parse</code>
+<code>Vercel</code>
+</p>
+
+<br>
 
 <a href="https://hiresense-resume-analysis.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="HireSense live demo"/>
+  <img
+    src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="HireSense Live Demo"
+  />
 </a>
 
 <a href="https://github.com/abhinaybhuvanesh/HireSense-AI">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="HireSense source code"/>
+  <img
+    src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=A78BFA"
+    alt="HireSense Source Code"
+  />
 </a>
 
 </div>
@@ -125,29 +238,66 @@ An AI-powered resume screening platform that compares candidates with job descri
 </tr>
 </table>
 
-<br>
+<br><br>
 
-<!-- 📊 GITHUB ACTIVITY SECTION (Midnight Moon Theme) -->
+<!-- ===================================================== -->
+<!--                  📊 GITHUB ACTIVITY                    -->
+<!-- ===================================================== -->
+
 <h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
-  <!-- Reliable API for Profile Details with Midnight Theme -->
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaybhuvanesh&theme=tokyonight" alt="Abhinay Bhuvanesh GitHub activity"/>
-  
-  <br><br>
-  
-  <!-- Reliable Stats Cards with matching Midnight Borders -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&theme=tokyonight&border_radius=10&border_color=1e1b4b" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&theme=tokyonight&border_radius=10&border_color=1e1b4b" alt="Top Languages" />
 
-  <br><br>
+<img
+  width="96%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinaybhuvanesh&theme=tokyonight"
+  alt="GitHub Activity"
+/>
 
-  <img width="70%" src="https://streak-stats.demolab.com/?user=abhinaybhuvanesh&theme=tokyonight&border_radius=10&border_color=1e1b4b" alt="Abhinay Bhuvanesh GitHub streak"/>
+<br><br>
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=abhinaybhuvanesh&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&border_color=312E81"
+  alt="GitHub Stats"
+/>
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybhuvanesh&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&border_color=312E81"
+  alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com/?user=abhinaybhuvanesh&theme=tokyonight&border_radius=12&border=312E81"
+  alt="GitHub Streak"
+/>
+
 </div>
 
-<br>
+<br><br>
 
-<!-- 🌙 FOOTER (Matching Midnight Wave) -->
+<!-- ===================================================== -->
+<!--                    🌙 NIGHT FOOTER                     -->
+<!-- ===================================================== -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0f172a,50:1e1b4b,100:020617"/>
+
+<h3>☾ Code • Build • Learn • Repeat ☽</h3>
+
+<sub>
+Turning ideas into software, one commit at a time.
+</sub>
+
+<br><br>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:1e1b4b,75:172554,100:020617"
+  alt="Footer"
+/>
+
 </div>
