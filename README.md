@@ -1,5 +1,18 @@
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:52525B,50:71717A,100:A3A3A3&text=ABHINAY%20BHUVANESH&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20MERN%20%E2%80%A2%20Cloud&descAlignY=61&descSize=17"/>
 
+<br>
+
+<a href="https://linkedin.com/in/abhinaybhuvanesh">
+  <img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:abhinaybhuvanesh01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 ## About me 
 
 <img align="right" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
